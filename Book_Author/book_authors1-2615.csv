@@ -1,0 +1,821 @@
+book_id,book_title,author_id,author_name
+1,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",1077326,J.K. Rowling
+2,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",1077326,J.K. Rowling
+2,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",2927,Mary GrandPré
+3,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",1077326,J.K. Rowling
+3,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",2927,Mary GrandPré
+4,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",1077326,J.K. Rowling
+5,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",1077326,J.K. Rowling
+5,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",2927,Mary GrandPré
+6,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",1077326,J.K. Rowling
+6,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",2927,Mary GrandPré
+7,"The Harry Potter Collection (Harry Potter, #1-6)",1077326,J.K. Rowling
+7,"The Harry Potter Collection (Harry Potter, #1-6)",2927,Mary GrandPré
+8,"Harry Potter Boxed Set, Books 1-5 (Harry Potter, #1-5)",1077326,J.K. Rowling
+8,"Harry Potter Boxed Set, Books 1-5 (Harry Potter, #1-5)",2927,Mary GrandPré
+10,"Harry Potter Collection (Harry Potter, #1-6)",1077326,J.K. Rowling
+11,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",4,Douglas Adams
+12,"The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy, #1-5)",4,Douglas Adams
+13,"The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",4,Douglas Adams
+14,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",4,Douglas Adams
+18,"The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy, #1-5)",4,Douglas Adams
+21,A Short History of Nearly Everything,7,Bill Bryson
+23,Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,7,Bill Bryson
+24,In a Sunburned Country,7,Bill Bryson
+25,I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,7,Bill Bryson
+26,The Lost Continent: Travels in Small Town America,7,Bill Bryson
+27,Neither Here nor There: Travels in Europe,7,Bill Bryson
+28,Notes from a Small Island,7,Bill Bryson
+29,The Mother Tongue: English and How It Got That Way,7,Bill Bryson
+30,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,656983,J.R.R. Tolkien
+32,The Lord of the Rings,656983,J.R.R. Tolkien
+33,The Lord of the Rings,656983,J.R.R. Tolkien
+34,"The Fellowship of the Ring (The Lord of the Rings, #1)",656983,J.R.R. Tolkien
+40,"Cooking with Fernet Branca (Gerald Samper, #1)",12,James Hamilton-Paterson
+45,Agile Web Development with Rails: A Pragmatic Guide,13,Dave Thomas
+45,Agile Web Development with Rails: A Pragmatic Guide,23587,David Heinemeier Hansson
+45,Agile Web Development with Rails: A Pragmatic Guide,23590,Leon Breedt
+45,Agile Web Development with Rails: A Pragmatic Guide,15118,Mike Clark
+45,Agile Web Development with Rails: A Pragmatic Guide,8594411,Thomas  Fuchs
+45,Agile Web Development with Rails: A Pragmatic Guide,8622940,Andreas  Schwarz
+50,"Hatchet (Brian's Saga, #1)",18,Gary Paulsen
+67,The Known World,33,Edward P. Jones
+71,"Traders, Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives",36,Satyajit Das
+74,"The John McPhee Reader (John McPhee Reader, #1)",40,John McPhee
+74,"The John McPhee Reader (John McPhee Reader, #1)",204245,William Howarth
+75,Uncommon Carriers,40,John McPhee
+77,The Control of Nature,40,John McPhee
+78,Annals of the Former World,40,John McPhee
+79,Coming Into the Country,40,John McPhee
+80,La Place de la Concorde Suisse,40,John McPhee
+93,"Heidi (Heidi, #1-2)",49,Johanna Spyri
+93,"Heidi (Heidi, #1-2)",403,Beverly Cleary
+93,"Heidi (Heidi, #1-2)",9829661,Angelo  Rinaldi
+99,The Player's Handbook: The Ultimate Guide on Dating and Relationships,44,Heidi Fleiss
+99,The Player's Handbook: The Ultimate Guide on Dating and Relationships,1587,Libby Keatinge
+103,"God Emperor of Dune (Dune Chronicles, #4)",58,Frank Herbert
+104,"Dune (Dune Chronicles, #1)",58,Frank Herbert
+104,"Dune (Dune Chronicles, #1)",56,Brian Herbert
+105,Chapterhouse: Dune (Dune #6),58,Frank Herbert
+106,Dune Messiah (Dune #2),58,Frank Herbert
+110,The Road to Dune,58,Frank Herbert
+110,The Road to Dune,56,Brian Herbert
+110,The Road to Dune,4845,Kevin J. Anderson
+112,Children of Dune (Dune Chronicles #3),58,Frank Herbert
+117,Heretics of Dune (Dune Chronicles #5),58,Frank Herbert
+119,The Lord of the Rings: The Art of the Fellowship of the Ring,60,Gary Russell
+122,"The Power of One (The Power of One, #1)",63,Bryce Courtenay
+126,"The Power of One (The Power of One, #1)",63,Bryce Courtenay
+126,"The Power of One (The Power of One, #1)",1641762,Humphrey Bower
+151,Anna Karenina,128382,Leo Tolstoy
+151,Anna Karenina,3357,Richard Pevear
+151,Anna Karenina,3358,Larissa Volokhonsky
+152,Anna Karenina,128382,Leo Tolstoy
+152,Anna Karenina,217371,David Magarshack
+152,Anna Karenina,5262,Priscilla Meyer
+153,Anna Karenina,128382,Leo Tolstoy
+153,Anna Karenina,3357,Richard Pevear
+153,Anna Karenina,3358,Larissa Volokhonsky
+153,Anna Karenina,21660,John Bayley
+155,Anna Karenina,128382,Leo Tolstoy
+155,Anna Karenina,40588,Amy Mandelker
+155,Anna Karenina,69892,Constance Garnett
+156,Anna Karenina ,128382,Leo Tolstoy
+156,Anna Karenina ,235013,Louise Maude
+156,Anna Karenina ,72230,Aylmer Maude
+161,The Dream Life of Sukhanov,80185,Olga Grushin
+163,The Untouchable,91,John Banville
+216,Miami Blues (Hoke Moseley #1),3114972,Charles Willeford
+216,Miami Blues (Hoke Moseley #1),12940,Elmore Leonard
+231,I am Charlotte Simmons,3083854,Tom Wolfe
+246,The Colossus of Maroussi,147,Henry Miller
+247,Quiet Days in Clichy,147,Henry Miller
+248,Big Sur and the Oranges of Hieronymus Bosch,147,Henry Miller
+249,Tropic of Cancer,147,Henry Miller
+249,Tropic of Cancer,8136961,Jiří Níl
+250,Tropic of Capricorn,147,Henry Miller
+251,"Nexus (The Rosy Crucifixion, #3)",147,Henry Miller
+252,"Sexus (The Rosy Crucifixion, #1)",147,Henry Miller
+264,The Portrait of a Lady,159,Henry James
+264,The Portrait of a Lady,79407,Patricia Crick
+264,The Portrait of a Lady,106366,Claude Bonnafont
+269,The Portrait of a Lady,159,Henry James
+269,The Portrait of a Lady,135507,Gabriel Brownstein
+269,The Portrait of a Lady,3849668,Mary Cregan
+275,The Lover,163,Marguerite Duras
+275,The Lover,25484,Barbara Bray
+275,The Lover,17290,Maxine Hong Kingston
+277,Writing,163,Marguerite Duras
+278,The War,163,Marguerite Duras
+278,The War,25484,Barbara Bray
+280,The Ravishing of Lol Stein,163,Marguerite Duras
+280,The Ravishing of Lol Stein,3849676,Richard Seever
+282,L'Amour,163,Marguerite Duras
+285,Love Letters,6466154,Kahlil Gibran
+285,Love Letters,3319737,Suheil Bushrui
+285,Love Letters,3849678,Salma H. Al-Kuzbari
+286,The Prophet,6466154,Kahlil Gibran
+291,The Broken Wings,6466154,Kahlil Gibran
+291,The Broken Wings,17888244,جبران خليل جبران
+291,The Broken Wings,842531,Anthony Rizcallah Ferris
+292,Sand and Foam,6466154,Kahlil Gibran
+292,Sand and Foam,17888244,جبران خليل جبران
+295,Treasure Island,854076,Robert Louis Stevenson
+295,Treasure Island,2350841,David W. Whitehead
+295,Treasure Island,6163579,Richard S. Hartmetz
+296,Treasure Island,854076,Robert Louis Stevenson
+296,Treasure Island,78071,Scott McKowen
+297,Treasure Island,854076,Robert Louis Stevenson
+298,Treasure Island,854076,Robert Louis Stevenson
+298,Treasure Island,54622,N.C. Wyeth
+298,Treasure Island,12069,Timothy Meis
+304,Daniel Deronda,173,George Eliot
+304,Daniel Deronda,15975,Edmund White
+320,One Hundred Years of Solitude,13450,Gabriel García Márquez
+320,One Hundred Years of Solitude,50060,Gregory Rabassa
+320,One Hundred Years of Solitude,4119591,Seçkin Selvi
+322,Cien años de soledad,13450,Gabriel García Márquez
+325,Cien años de soledad,13450,Gabriel García Márquez
+327,Why Zebras Don't Get Ulcers,187,Robert M. Sapolsky
+336,Why Zebras Don't Get Ulcers,5657197,Robert M. Sapolksy
+336,Why Zebras Don't Get Ulcers,5657197,Robert M. Sapolksy
+337,El perfume. Historia de un asesino,39402,Patrick Süskind
+338,Jitterbug Perfume,197,Tom Robbins
+343,Perfume: The Story of a Murderer,39402,Patrick Süskind
+343,Perfume: The Story of a Murderer,60286,John E. Woods
+349,The Moon is a Harsh Mistress,205,Robert A. Heinlein
+350,Stranger in a Strange Land,205,Robert A. Heinlein
+357,"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",4,Douglas Adams
+358,"Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)",4,Douglas Adams
+359,"The Salmon of Doubt (Dirk Gently, #3)",4,Douglas Adams
+360,"Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)",4,Douglas Adams
+362,Wish You Were Here: The Official Biography of Douglas Adams,16302898,Nick  Webb
+365,"Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)",4,Douglas Adams
+367,Douglas Adams's Starship Titanic,209,Terry Jones
+378,The Phantom Tollbooth,214,Norton Juster
+378,The Phantom Tollbooth,5116,Jules Feiffer
+385,On Bullshit,219,Harry G. Frankfurt
+386,Another Bullshit Night in Suck City,220,Nick Flynn
+400,Libra,233,Don DeLillo
+402,Mao II,233,Don DeLillo
+404,Running Dog,233,Don DeLillo
+407,Great Jones Street,233,Don DeLillo
+408,The Names,233,Don DeLillo
+409,Against the Day,235,Thomas Pynchon
+410,V.,235,Thomas Pynchon
+411,The Crying of Lot 49,235,Thomas Pynchon
+413,Mason & Dixon,235,Thomas Pynchon
+414,Vineland,235,Thomas Pynchon
+415,Gravity's Rainbow,235,Thomas Pynchon
+416,Slow Learner: Early Stories,235,Thomas Pynchon
+419,Vintage Didion  ,238,Joan Didion
+420,The Year of Magical Thinking,238,Joan Didion
+421,The White Album,238,Joan Didion
+422,A Book of Common Prayer,238,Joan Didion
+423,Where I Was From,238,Joan Didion
+424,Slouching Towards Bethlehem,238,Joan Didion
+425,Democracy,238,Joan Didion
+428,Play It As It Lays,238,Joan Didion
+428,Play It As It Lays,16462792,David Thomson
+431,The New York Trilogy,296961,Paul Auster
+431,The New York Trilogy,5117,Art Spiegelman
+431,The New York Trilogy,17699,Luc Sante
+432,"City of Glass (The New York Trilogy, #1)",296961,Paul Auster
+433,The New York Trilogy: City of Glass / Ghosts / The Locked Room,296961,Paul Auster
+434,"Ghosts (The New York Trilogy, #2)",296961,Paul Auster
+435,"The Locked Room (The New York Trilogy, #3)",296961,Paul Auster
+436,La trilogía de Nueva York,296961,Paul Auster
+436,La trilogía de Nueva York,14018,Maribel de Juan
+446,The Brooklyn Follies,296961,Paul Auster
+447,Moon Palace,296961,Paul Auster
+449,Timbuktu,296961,Paul Auster
+451,True Tales of American Life,296961,Paul Auster
+454,Travels in the Scriptorium,296961,Paul Auster
+455,In the Country of Last Things,296961,Paul Auster
+456,Leviathan,296961,Paul Auster
+463,The Red Notebook: True Stories,296961,Paul Auster
+464,Collected Poems,296961,Paul Auster
+475,Collapse: How Societies Choose to Fail or Succeed,256,Jared Diamond
+478,Bowling Alone: The Collapse and Revival of American Community,260,Robert D. Putnam
+485,The Languages of Native North America,268,Marianne Mithun
+489,Along The Clipper Way,1668748,Francis Chichester
+491,"Life And Adventures Of John Nicol, Mariner",277,John Nicol
+492,The Fantastic Inventions of Nikola Tesla,278,Nikola Tesla
+492,The Fantastic Inventions of Nikola Tesla,14864,David Hatcher Childress
+493,My Inventions,278,Nikola Tesla
+519,Rails Recipes,302,Chad Fowler
+525,Lord of the Flies,306,William Golding
+525,Lord of the Flies,1862622,Ben Gibson
+525,Lord of the Flies,86404,E.M. Forster
+525,Lord of the Flies,33591,Edmund L. Epstein
+530,Lord of the Flies,306,William Golding
+530,Lord of the Flies,213546,Tim Pigott-Smith
+537,The Lovely Bones,316,Alice Sebold
+553,Storage (Chic Simple) (Chic Simple Components),332,Jennifer Lisle
+555,"The Modern Gentleman: A Guide to Essential Manners, Savvy and Vice",334,Phineas Mollod
+555,"The Modern Gentleman: A Guide to Essential Manners, Savvy and Vice",17222,Jason Tesauro
+563,CSS Mastery: Advanced Web Standards Solutions,341,Andy Budd
+563,CSS Mastery: Advanced Web Standards Solutions,18008,Cameron Moll
+563,CSS Mastery: Advanced Web Standards Solutions,17992,Simon Collison
+570,"HTML, XHTML, and CSS (Visual Quickstart Guide)",347,Elizabeth Castro
+572,"1,000 Places to See in the U.S.A.  Canada Before You Die",350,Patricia Schultz
+597,Killing Yourself to Live: 85% of a True Story,375,Chuck Klosterman
+599,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",375,Chuck Klosterman
+600,"Sex, Drugs and DNA: Science's Taboos Confronted",376,Michael Stebbins
+606,The Vice Guide to Sex and Drugs and Rock and Roll,383,Suroosh Alvi
+606,The Vice Guide to Sex and Drugs and Rock and Roll,14518,Shane Smith
+606,The Vice Guide to Sex and Drugs and Rock and Roll,14517,Gavin McInnes
+618,Vice DOs & DON'Ts: 10 Years of Vice Magazine's Street Fashion Critiques,383,Suroosh Alvi
+618,Vice DOs & DON'Ts: 10 Years of Vice Magazine's Street Fashion Critiques,14518,Shane Smith
+618,Vice DOs & DON'Ts: 10 Years of Vice Magazine's Street Fashion Critiques,14517,Gavin McInnes
+621,The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich,398,David Bach
+622,The Automatic Millionaire Homeowner: A Powerful Plan to Finish Rich in Real Estate,398,David Bach
+629,"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",401,Robert M. Pirsig
+632,The Motorcycle Diaries: Notes on a Latin American Journey,76172,Ernesto Che Guevara
+632,The Motorcycle Diaries: Notes on a Latin American Journey,100751,Cintio Vitier
+632,The Motorcycle Diaries: Notes on a Latin American Journey,3892023,Aleida Guevara March
+647,No Logo,419,Naomi Klein
+652,Los Logos: A Selected LOGO Collection,3849829,Nicholas Bourquin
+652,Los Logos: A Selected LOGO Collection,472,Robert Klanten
+652,Los Logos: A Selected LOGO Collection,377583,Michael Mischler
+655,The Death of Ivan Ilych and Other Stories,128382,Leo Tolstoy
+655,The Death of Ivan Ilych and Other Stories,5132945,James Duff Duff
+655,The Death of Ivan Ilych and Other Stories,72230,Aylmer Maude
+655,The Death of Ivan Ilych and Other Stories,119190,Hugh McLean
+656,War and Peace,128382,Leo Tolstoy
+656,War and Peace,72229,Henry Gifford
+656,War and Peace,72230,Aylmer Maude
+656,War and Peace,235013,Louise Maude
+656,War and Peace,4824219,Vladimir Levstik
+662,Atlas Shrugged,432,Ayn Rand
+662,Atlas Shrugged,1421,Leonard Peikoff
+663,For the New Intellectual: The Philosophy of Ayn Rand,432,Ayn Rand
+664,The Fountainhead,432,Ayn Rand
+665,The Virtue of Selfishness: A New Concept of Egoism,432,Ayn Rand
+665,The Virtue of Selfishness: A New Concept of Egoism,1333,Nathaniel Branden
+667,Anthem,432,Ayn Rand
+668,We the Living,432,Ayn Rand
+668,We the Living,1421,Leonard Peikoff
+669,Capitalism: The Unknown Ideal,432,Ayn Rand
+669,Capitalism: The Unknown Ideal,1333,Nathaniel Branden
+669,Capitalism: The Unknown Ideal,1334,Alan Greenspan
+669,Capitalism: The Unknown Ideal,1335,Robert Hessen
+683,Natural Capitalism,445,Paul Hawken
+683,Natural Capitalism,2087,L. Hunter Lovins
+683,Natural Capitalism,2845,Amory B. Lovins
+685,The Natural,447,Bernard Malamud
+685,The Natural,2095,Kevin Baker
+697,Ortlos: Architecture of the Net.Works,5702682,Ivan Redi
+697,Ortlos: Architecture of the Net.Works,3849866,Distributed Art Publishers
+697,Ortlos: Architecture of the Net.Works,3849867,Andrea Redi
+697,Ortlos: Architecture of the Net.Works,5702682,Ivan Redi
+698,Digging to America,457,Anne Tyler
+703,The Plot Against America,463,Philip Roth
+706,America (The Book): A Citizen's Guide to Democracy Inaction,466,Jon   Stewart
+706,America (The Book): A Citizen's Guide to Democracy Inaction,491956,Ben Karlin
+706,America (The Book): A Citizen's Guide to Democracy Inaction,491957,David Javerbaum
+706,America (The Book): A Citizen's Guide to Democracy Inaction,7095415,Rich Bloomquist
+706,America (The Book): A Citizen's Guide to Democracy Inaction,3122217,Steve Bodow
+706,America (The Book): A Citizen's Guide to Democracy Inaction,5239694,Tim Carvell
+706,America (The Book): A Citizen's Guide to Democracy Inaction,6904516,Eric Drysdale
+706,America (The Book): A Citizen's Guide to Democracy Inaction,1212425,J.R. Havlan
+706,America (The Book): A Citizen's Guide to Democracy Inaction,725373,Scott Jacobson
+706,America (The Book): A Citizen's Guide to Democracy Inaction,64939,Tom Johnson
+706,America (The Book): A Citizen's Guide to Democracy Inaction,1307199,Rob Kutner
+706,America (The Book): A Citizen's Guide to Democracy Inaction,927015,Chris Regan
+706,America (The Book): A Citizen's Guide to Democracy Inaction,6904515,Jason Reich
+706,America (The Book): A Citizen's Guide to Democracy Inaction,711212,Jason Ross
+706,America (The Book): A Citizen's Guide to Democracy Inaction,6649,Stephen Colbert
+706,America (The Book): A Citizen's Guide to Democracy Inaction,3122220,Samantha Bee
+706,America (The Book): A Citizen's Guide to Democracy Inaction,5770245,Rob Corddry
+706,America (The Book): A Citizen's Guide to Democracy Inaction,1553562,Brendan Hay
+706,America (The Book): A Citizen's Guide to Democracy Inaction,4058008,Ed Helms
+707,Naked Pictures of Famous People,466,Jon   Stewart
+759,Collected Stories,13450,Gabriel García Márquez
+759,Collected Stories,50060,Gregory Rabassa
+759,Collected Stories,963872,J.S. Bernstein
+762,Crónica de una muerte anunciada,13450,Gabriel García Márquez
+763,Cien años de soledad,13450,Gabriel García Márquez
+764,Del amor y otros demonios,13450,Gabriel García Márquez
+765,Living to Tell the Tale,13450,Gabriel García Márquez
+765,Living to Tell the Tale,2599,Edith Grossman
+766,Memoria de mis putas tristes,13450,Gabriel García Márquez
+771,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",509,Brian Greene
+776,Buddhism Plain and Simple,515,Steve Hagen
+792,London: City Guide (Lonely Planet City Guide),6980602,Lonely Planet
+792,London: City Guide (Lonely Planet City Guide),526,Sarah Johnstone
+792,London: City Guide (Lonely Planet City Guide),22830,Tom Masters
+815,"Three Nights in August: Strategy, Heartbreak, and Joy Inside the Mind of a Manager",449547,H.G. Bissinger
+816,Cryptonomicon,545,Neal Stephenson
+818,Cryptonomicon,545,Neal Stephenson
+818,Cryptonomicon,748571,Juliane Gräbener-Müller
+818,Cryptonomicon,442586,Nikolaus Stingl
+818,Cryptonomicon,20214737,Liz Kenyon
+819,Cryptonomicon,545,Neal Stephenson
+822,"The Confusion (The Baroque Cycle, #2)",545,Neal Stephenson
+823,"Quicksilver (The Baroque Cycle, #1)",545,Neal Stephenson
+825,Zodiac,545,Neal Stephenson
+826,The Big U,545,Neal Stephenson
+827,"The Diamond Age: Or, a Young Lady's Illustrated Primer",545,Neal Stephenson
+827,"The Diamond Age: Or, a Young Lady's Illustrated Primer",32701,Pedro Jorge Romero
+829,"Odalisque (The Baroque Cycle, Vol. 1, Book 3)",545,Neal Stephenson
+830,Snow Crash,545,Neal Stephenson
+830,Snow Crash,2709,Guy Abadia
+834,"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments, Volume II: The Endgame",549,Dan Harrington
+834,"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments, Volume II: The Endgame",14272,Bill Robertie
+835,"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments, Volume I: Strategic Play",549,Dan Harrington
+835,"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments, Volume I: Strategic Play",14272,Bill Robertie
+840,The Design of Everyday Things,552,Donald A. Norman
+841,Emotional Design: Why We Love (or Hate) Everyday Things,552,Donald A. Norman
+864,The Alchemist,566,Paulo Coelho
+864,The Alchemist,488758,Alan R. Clarke
+864,The Alchemist,3849945,James Noel Smith
+865,The Alchemist,566,Paulo Coelho
+865,The Alchemist,488758,Alan R. Clarke
+872,The Illustrated Alchemist: A Fable about Following Your Dream,566,Paulo Coelho
+872,The Illustrated Alchemist: A Fable about Following Your Dream,488758,Alan R. Clarke
+872,The Illustrated Alchemist: A Fable about Following Your Dream,5449827,Mœbius
+874,The Kite Runner,569,Khaled Hosseini
+890,Of Mice and Men,585,John Steinbeck
+900,The Game: Penetrating the Secret Society of Pickup Artists,588,Neil Strauss
+901,"Ender's Game (Ender's Saga, #1)",589,Orson Scott Card
+902,The Westing Game,10074,Ellen Raskin
+903,The Egypt Game,27,Zilpha Keatley Snyder
+905,The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance,593,W. Timothy Gallwey
+905,The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance,4116714,Zach Kleinman
+905,The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance,3151337,Pete Carroll
+908,Jim Cramer's Real Money: Sane Investing in an Insane World,596,James J. Cramer
+912,"Rich Dad, Poor Dad",600,Robert T. Kiyosaki
+914,"Rich Dad, Poor Dad 2: Cash Flow Quadrant - Rich Dad's Guide to Financial Freedom",600,Robert T. Kiyosaki
+929,Memoirs of a Geisha,614,Arthur Golden
+930,Memoirs of a Geisha,614,Arthur Golden
+931,Memoirs of a Geisha,614,Arthur Golden
+933,Memoirs of a Geisha,614,Arthur Golden
+937,Memoirs of a Geisha,614,Arthur Golden
+938,How to Make Anyone Fall in Love with You,618,Leil Lowndes
+951,The Five Love Languages: Men's Edition: How to Express Heartfelt Commitment to Your Mate,622,Gary Chapman
+960,"Angels & Demons (Robert Langdon, #1)",630,Dan Brown
+965,"Ángeles y demonios (Robert Langdon, #1)",630,Dan Brown
+966,Angeles & Demonios,630,Dan Brown
+966,Angeles & Demonios,2556365,Raúl Amundaray
+968,"The Da Vinci Code (Robert Langdon, #2)",630,Dan Brown
+969,The Da Vinci Code,630,Dan Brown
+975,Deception Point,630,Dan Brown
+976,Deception Point,630,Dan Brown
+977,Deception Point,630,Dan Brown
+982,Deception Point,630,Dan Brown
+996,What Every Real Estate Investor Needs to Know about Cash Flow... And 36 Other Key Financial Measures,657,Frank Gallinelli
+998,The Millionaire Next Door: The Surprising Secrets of America's Wealthy,659,Thomas J. Stanley
+998,The Millionaire Next Door: The Surprising Secrets of America's Wealthy,3336,William D. Danko
+1005,Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21st Century,399,Napoleon Hill
+1014,Pragmatic Version Control: Using Subversion (The Pragmatic Starter Kit Series),9831081,Mike   Mason
+1031,"Trump: Think Like a Billionaire: Everything You Need to Know About Success, Real Estate, and Life",676,Donald J. Trump
+1031,"Trump: Think Like a Billionaire: Everything You Need to Know About Success, Real Estate, and Life",21090,Meredith McIver
+1034,Trump University Real Estate 101: Building Wealth with Real Estate Investments,678,Gary W. Eldred
+1034,Trump University Real Estate 101: Building Wealth with Real Estate Investments,676,Donald J. Trump
+1035,Trump: How to Get Rich,676,Donald J. Trump
+1035,Trump: How to Get Rich,21090,Meredith McIver
+1039,How to Build a Fortune [With CD-ROM with Workbook and Trump Cards and DVD],676,Donald J. Trump
+1041,Trump: The Best Real Estate Advice I Ever Received: 100 Top Experts Share Their Strategies,676,Donald J. Trump
+1047,The Beginner's Guide to Real Estate Investing,678,Gary W. Eldred
+1052,The Richest Man in Babylon,688,George S. Clason
+1059,Shibumi,691,Trevanian
+1059,Shibumi,539563,Gisela Stege
+1067,1776,6281688,David McCullough
+1075,Gap Creek,702,Robert Morgan
+1078,"The Good Earth (House of Earth, #1)",704,Pearl S. Buck
+1091,Purpose Driven Life Journal: What on Earth Am I Here For?,711,Rick Warren
+1097,Fast Food Nation: The Dark Side of the All-American Meal,380,Eric Schlosser
+1103,Snow Flower and the Secret Fan,713,Lisa See
+1110,The Broker,721,John Grisham
+1111,The Power Broker: Robert Moses and the Fall of New York,722,Robert A. Caro
+1162,Monkey Business: Swinging Through the Wall Street Jungle,764,John Rolfe
+1162,Monkey Business: Swinging Through the Wall Street Jungle,57855,Peter Troob
+1171,Liar's Poker,776,Michael   Lewis
+1176,Liars Poker Rising Through The Wreckage/International Edition,776,Michael   Lewis
+1191,Giada's Family Dinners,792,Giada De Laurentiis
+1191,Giada's Family Dinners,369386,Victoria Pearson
+1192,Everyday Italian: 125 Simple and Delicious Recipes,792,Giada De Laurentiis
+1196,Tyler's Ultimate: Brilliant Simple Food to Make Any Time,795,Tyler Florence
+1196,Tyler's Ultimate: Brilliant Simple Food to Make Any Time,743519,Petrina Tinslay
+1202,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,798,Steven D. Levitt
+1202,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,1928,Stephen J. Dubner
+1203,Freakonomics: A Rogue Economist Explores The Hidden Side Of Everything,798,Steven D. Levitt
+1218,"The Last Assassin (John Rain, #5)",603,Barry Eisler
+1226,Life of Pi,811,Yann Martel
+1231,Keys to Investing in Real Estate,123990,Jack P. Friedman
+1231,Keys to Investing in Real Estate,123988,Jack C. Harris
+1232,"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",815,Carlos Ruiz Zafón
+1232,"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",221645,Lucia Graves
+1241,A Million Little Pieces,822,James Frey
+1254,The Leadership Pipeline: How to Build the Leadership-Powered Company,1060,Ram Charan
+1254,The Leadership Pipeline: How to Build the Leadership-Powered Company,804854,Stephen Drotter
+1254,The Leadership Pipeline: How to Build the Leadership-Powered Company,5668780,Jim Noel
+1265,Leadership,3309447,Rudolph W. Giuliani
+1274,"Men Are from Mars, Women Are from Venus",848,John Gray
+1283,Investing in REITs: Real Estate Investment Trusts,1742444,Ralph L. Block
+1290,How to Succeed with Women,857,Ron  Louis
+1290,How to Succeed with Women,14281,David Copeland
+1295,"The Clan of the Cave Bear (Earth's Children, #1)",861,Jean M. Auel
+1296,"The Clan of the Cave Bear (Earth's Children, #1)",861,Jean M. Auel
+1300,The Bad Guys Won!,863,Jeff Pearlman
+1301,Moneyball: The Art of Winning an Unfair Game,776,Michael   Lewis
+1303,The 48 Laws of Power,865,Robert Greene
+1303,The 48 Laws of Power,12331,Joost Elffers
+1305,Gates of Fire,867,Steven Pressfield
+1306,Gates of Fire,867,Steven Pressfield
+1307,"Fire Sea (The Death Gate Cycle, #3)",869,Margaret Weis
+1307,"Fire Sea (The Death Gate Cycle, #3)",868,Tracy Hickman
+1319,The War of Art: Break Through the Blocks & Win Your Inner Creative Battles,867,Steven Pressfield
+1319,The War of Art: Break Through the Blocks & Win Your Inner Creative Battles,27312,Robert McKee
+1327,Phaedrus,879,Plato
+1327,Phaedrus,608211,Robin Waterfield
+1328,Phaedrus,879,Plato
+1328,Phaedrus,6062433,Christopher J. Rowe
+1329,Plato's Erotic Dialogues: Symposium/Phaedrus,879,Plato
+1329,Plato's Erotic Dialogues: Symposium/Phaedrus,420244,William S. Cobb
+1330,Euthyphro. Apology. Crito. Phaedo. Phaedrus.,879,Plato
+1330,Euthyphro. Apology. Crito. Phaedo. Phaedrus.,1593627,Harold North Fowler
+1332,"Parmenides, Philebus, Symposium, Phaedrus, Alcibiades I and II, Hipparchus, Amatores",879,Plato
+1332,"Parmenides, Philebus, Symposium, Phaedrus, Alcibiades I and II, Hipparchus, Amatores",19019755,Ioannes Burnet
+1349,Phaedrus,879,Plato
+1349,Phaedrus,13395658,Benjamin Jowett
+1365,The Histories,901,Herodotus
+1365,The Histories,50435,Carolyn Dewald
+1365,The Histories,608211,Robin Waterfield
+1371,The Iliad,903,Homer
+1371,The Iliad,1005,Robert Fagles
+1371,The Iliad,280215,Bernard Knox
+1372,The Iliad,903,Homer
+1372,The Iliad,15558077,Richmond Lattimore
+1374,The Iliad,903,Homer
+1374,The Iliad,573688,Robert Fitzgerald
+1374,The Iliad,457706,Andrew Ford
+1376,The Iliad,903,Homer
+1376,The Iliad,880408,E.V. Rieu
+1376,The Iliad,6540105,Peter Jones
+1376,The Iliad,959582,D.C.H. Rieu
+1381,The Odyssey,903,Homer
+1381,The Odyssey,1005,Robert Fagles
+1381,The Odyssey,280215,Bernard Knox
+1383,The Odyssey,903,Homer
+1383,The Odyssey,15558077,Richmond Lattimore
+1384,The Odyssey,903,Homer
+1384,The Odyssey,880408,E.V. Rieu
+1384,The Odyssey,6540105,Peter Jones
+1384,The Odyssey,959582,D.C.H. Rieu
+1414,The Riverside Shakespeare,947,William Shakespeare
+1414,The Riverside Shakespeare,946,G. Blakemore Evans
+1416,The Norton Shakespeare,947,William Shakespeare
+1416,The Norton Shakespeare,4194881,Stephen Greenblatt
+1416,The Norton Shakespeare,166277,Walter Cohen
+1416,The Norton Shakespeare,166278,Jean E. Howard
+1416,The Norton Shakespeare,9484,Katharine Eisaman Maus
+1417,The Complete Pelican Shakespeare,947,William Shakespeare
+1417,The Complete Pelican Shakespeare,42267,Stephen Orgel
+1417,The Complete Pelican Shakespeare,487578,A.R. Braunmuller
+1418,Complete Works of William Shakespeare,947,William Shakespeare
+1420,Hamlet,947,William Shakespeare
+1420,Hamlet,236,Harold Bloom
+1420,Hamlet,62561,Rex Gibson
+1421,The Oxford Shakespeare: The Complete Works,947,William Shakespeare
+1421,The Oxford Shakespeare: The Complete Works,2870201,Stanley Wells
+1421,The Oxford Shakespeare: The Complete Works,68032,Gary Taylor
+1426,Warrior of the Light,566,Paulo Coelho
+1427,The Zahir,566,Paulo Coelho
+1427,The Zahir,24758,Margaret Jull Costa
+1428,By the River Piedra I Sat Down and Wept,566,Paulo Coelho
+1428,By the River Piedra I Sat Down and Wept,488758,Alan R. Clarke
+1429,The Fifth Mountain,566,Paulo Coelho
+1429,The Fifth Mountain,740937,Clifford E. Landers
+1430,Eleven Minutes,566,Paulo Coelho
+1430,Eleven Minutes,24758,Margaret Jull Costa
+1431,Veronika Decides to Die,566,Paulo Coelho
+1431,Veronika Decides to Die,24758,Margaret Jull Costa
+1431,Veronika Decides to Die,18030180,Kâmuran Şipal
+1432,Hamlet,947,William Shakespeare
+1432,Hamlet,569383,Barbara A. Mowat
+1432,Hamlet,8140,Paul Werstine
+1434,Hamlet,947,William Shakespeare
+1434,Hamlet,8140,Paul Werstine
+1434,Hamlet,569383,Barbara A. Mowat
+1436,Hamlet (Norton Critical Edition),947,William Shakespeare
+1436,Hamlet (Norton Critical Edition),3023316,Cyrus Hoy
+1462,Euripides I: Alcestis / The Medea / The Heracleidae / Hippolytus,973,Euripides
+1462,Euripides I: Alcestis / The Medea / The Heracleidae / Hippolytus,15558077,Richmond Lattimore
+1462,Euripides I: Alcestis / The Medea / The Heracleidae / Hippolytus,176021,David Grene
+1462,Euripides I: Alcestis / The Medea / The Heracleidae / Hippolytus,192810,Rex Warner
+1462,Euripides I: Alcestis / The Medea / The Heracleidae / Hippolytus,2986564,Ralph Gladstone
+1475,Medea,973,Euripides
+1475,Medea,204368,Donald J. Mastronarde
+1517,"Aeschylus II: The Suppliant Maidens, The Persians, Seven against Thebes, and Prometheus Bound (The Complete Greek Tragedies)",990,Aeschylus
+1517,"Aeschylus II: The Suppliant Maidens, The Persians, Seven against Thebes, and Prometheus Bound (The Complete Greek Tragedies)",176021,David Grene
+1517,"Aeschylus II: The Suppliant Maidens, The Persians, Seven against Thebes, and Prometheus Bound (The Complete Greek Tragedies)",15558077,Richmond Lattimore
+1517,"Aeschylus II: The Suppliant Maidens, The Persians, Seven against Thebes, and Prometheus Bound (The Complete Greek Tragedies)",882,Seth Benardete
+1519,"The Oresteia: Agamemnon, The Libation Bearers, The Eumenides",990,Aeschylus
+1519,"The Oresteia: Agamemnon, The Libation Bearers, The Eumenides",1005,Robert Fagles
+1519,"The Oresteia: Agamemnon, The Libation Bearers, The Eumenides",573919,William Bedell Stanford
+1523,Prometheus Bound and Other Plays,990,Aeschylus
+1523,Prometheus Bound and Other Plays,994,Philip Vellacott
+1524,"Agamemnon (Oresteia, #1)",990,Aeschylus
+1524,"Agamemnon (Oresteia, #1)",3850275,Judith Affleck
+1524,"Agamemnon (Oresteia, #1)",995,Philip de May
+1524,"Agamemnon (Oresteia, #1)",8119975,Patricia E. Easterling
+1524,"Agamemnon (Oresteia, #1)",1004,John Harrison
+1537,The Oedipus Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone,1002,Sophocles
+1537,The Oedipus Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone,14871,Paul Roche
+1540,"The Oedipus Cycle: Oedipus Rex, Oedipus at Colonus, Antigone",1002,Sophocles
+1540,"The Oedipus Cycle: Oedipus Rex, Oedipus at Colonus, Antigone",573688,Robert Fitzgerald
+1540,"The Oedipus Cycle: Oedipus Rex, Oedipus at Colonus, Antigone",147788,Dudley Fitts
+1542,"The Three Theban Plays: Antigone, Oedipus the King, Oedipus at Colonus",1002,Sophocles
+1542,"The Three Theban Plays: Antigone, Oedipus the King, Oedipus at Colonus",1005,Robert Fagles
+1542,"The Three Theban Plays: Antigone, Oedipus the King, Oedipus at Colonus",280215,Bernard Knox
+1544,Antigone (Greek and Latin Classics),1002,Sophocles
+1544,Antigone (Greek and Latin Classics),105529,Mark Griffith
+1548,Electra and Other Plays,1002,Sophocles
+1548,Electra and Other Plays,71347,E.F. Watling
+1554,"Oedipus Rex  (The Theban Plays, #1)",1002,Sophocles
+1554,"Oedipus Rex  (The Theban Plays, #1)",1399188,J.E. Thomas
+1560,Four Plays: The Clouds/The Birds/Lysistrata/The Frogs,1011,Aristophanes
+1560,Four Plays: The Clouds/The Birds/Lysistrata/The Frogs,143510,William Arrowsmith
+1560,Four Plays: The Clouds/The Birds/Lysistrata/The Frogs,15558077,Richmond Lattimore
+1560,Four Plays: The Clouds/The Birds/Lysistrata/The Frogs,747148,Douglass Parker
+1591,Lysistrata,1011,Aristophanes
+1591,Lysistrata,1023,Sarah Ruden
+1617,"Night  (The Night Trilogy, #1)",1049,Elie Wiesel
+1617,"Night  (The Night Trilogy, #1)",329396,Marion Wiesel
+1617,"Night  (The Night Trilogy, #1)",61023,François Mauriac
+1618,The Curious Incident of the Dog in the Night-Time,1050,Mark Haddon
+1620,The Night Gardener,17549479,George Pelecanos
+1621,"Friday Night Lights: A Town, a Team, And a Dream",449547,H.G. Bissinger
+1622,A Midsummer Night's Dream,947,William Shakespeare
+1622,A Midsummer Night's Dream,8140,Paul Werstine
+1622,A Midsummer Night's Dream,569383,Barbara A. Mowat
+1622,A Midsummer Night's Dream,270160,Catherine Belsey
+1624,West with the Night,1054,Beryl Markham
+1625,Twelfth Night,947,William Shakespeare
+1627,Brokeback Mountain,1262010,Annie Proulx
+1629,Close Range: Brokeback Mountain and Other stories,1262010,Annie Proulx
+1632,Brokeback Mountain,1262010,Annie Proulx
+1632,Brokeback Mountain,1055,Larry McMurtry
+1632,Brokeback Mountain,1056,Diana Ossana
+1633,Getting Things Done: The Art of Stress-Free Productivity,1058,David    Allen
+1635,Execution: The Discipline of Getting Things Done,1062,Larry Bossidy
+1635,Execution: The Discipline of Getting Things Done,1060,Ram Charan
+1635,Execution: The Discipline of Getting Things Done,1061,Charles Burck
+1643,El último lector,1072,Ricardo Piglia
+1677,Sobre héroes y tumbas,5775606,Ernesto Sabato
+1681,The Confessions (Works of Saint Augustine 1),6819578,Augustine of Hippo
+1681,The Confessions (Works of Saint Augustine 1),1102,John E. Rotelle
+1681,The Confessions (Works of Saint Augustine 1),1096,Maria Boulding
+1682,The Confessions of St. Augustine,6819578,Augustine of Hippo
+1683,The Confessions of Saint Augustine,6819578,Augustine of Hippo
+1686,Augustine of Hippo: A Biography,1104,Peter R.L. Brown
+1709,Kitchen Confidential: Adventures in the Culinary Underbelly,1124,Anthony Bourdain
+1715,Metamorphoses,1127,Ovid
+1715,Metamorphoses,838723,David Raeburn
+1715,Metamorphoses,587285,Denis Feeney
+1749,Tragedy and Civilization: An Interpretation of Sophocles,1161,Charles Segal
+1814,2012: The Return of Quetzalcoatl,1201,Daniel Pinchbeck
+1815,Breaking Open the Head: A Psychedelic Journey Into the Heart of Contemporary Shamanism,1201,Daniel Pinchbeck
+1815,Breaking Open the Head: A Psychedelic Journey Into the Heart of Contemporary Shamanism,3850428,Lee Fukui
+1823,Them: Adventures with Extremists,1218,Jon Ronson
+1824,The Men Who Stare at Goats,1218,Jon Ronson
+1826,Maximum Accessibility: Making Your Web Site More Usable for Everyone: Making Your Web Site More Usable for Everyone,1220,John M. Slatin
+1826,Maximum Accessibility: Making Your Web Site More Usable for Everyone: Making Your Web Site More Usable for Everyone,3850432,Sharron Rush
+1831,Amazing Rain,15377388,Sam  Brown
+1836,Practice of the Wild,1230,Gary Snyder
+1839,"Guns, Germs and Steel: The Fates of Human Societies",256,Jared Diamond
+1842,"Guns, Germs, and Steel: The Fates of Human Societies",256,Jared Diamond
+1843,Caught Inside: A Surfer's Year on the California Coast,1234,Daniel Duane
+1845,Into the Wild,1235,Jon Krakauer
+1847,Wild at Heart: Discovering the Secret of a Man's Soul,1236,John Eldredge
+1848,Wild Swans: Three Daughters of China,1237,Jung Chang
+1849,"Wild Fire (John Corey, #4)",1238,Nelson DeMille
+1852,The Call of the Wild,1240,Jack London
+1852,The Call of the Wild,10105,Avi
+1855,The Art and Science of Web Design,1243,Jeffrey Veen
+1864,Hotwired Style: Principles for Building Smart Web Sites,1243,Jeffrey Veen
+1867,The Elements of User Experience: User-Centered Design for the Web (Voices (New Riders),1255,Jesse James Garrett
+1869,Nickel and Dimed: On (Not) Getting by in America,1257,Barbara Ehrenreich
+1871,Nickel and Dimed: On (Not) Getting By in America,1257,Barbara Ehrenreich
+1871,Nickel and Dimed: On (Not) Getting By in America,492669,Polly Toynbee
+1875,"The History of Sexuality, Volume 1: An Introduction",1260,Michel Foucault
+1875,"The History of Sexuality, Volume 1: An Introduction",45768,Robert Hurley
+1878,"The History of Sexuality, Volume 2: The Use of Pleasure",1260,Michel Foucault
+1878,"The History of Sexuality, Volume 2: The Use of Pleasure",45768,Robert Hurley
+1883,"The History of Sexuality, Volume 2: The Use of Pleasure",1260,Michel Foucault
+1883,"The History of Sexuality, Volume 2: The Use of Pleasure",45768,Robert Hurley
+1884,The Gulf War Did Not Take Place,1264,Jean Baudrillard
+1884,The Gulf War Did Not Take Place,89226,Paul Patton
+1885,Pride and Prejudice,1265,Jane Austen
+1885,Pride and Prejudice,3500,Anna Quindlen
+1886,Pride and Prejudice,1265,Jane Austen
+1886,Pride and Prejudice,43605,Tony Tanner
+1886,Pride and Prejudice,1266,Vivien Jones
+1887,The Making of Pride and Prejudice,1267,Sue Birtwistle
+1887,The Making of Pride and Prejudice,4062842,Susie Conklin
+1888,Pride and Prejudice,1265,Jane Austen
+1891,Pride and Prejudice,1265,Jane Austen
+1891,Pride and Prejudice,14532,George Saintsbury
+1891,Pride and Prejudice,6539924,Hugh  Thomson
+1893,Pride and Prejudice,1265,Jane Austen
+1893,Pride and Prejudice,1764937,Carol Howard
+1894,Under the Banner of Heaven: A Story of Violent Faith,1235,Jon Krakauer
+1898,Into Thin Air: A Personal Account of the Mount Everest Disaster,1235,Jon Krakauer
+1899,Under The Banner Of Heaven,1235,Jon Krakauer
+1903,How to Meet Beautiful Women,1276,Kevin Doyle
+1903,How to Meet Beautiful Women,1067757,Lisa George
+1903,How to Meet Beautiful Women,3850487,Joanne White
+1911,The World Is Flat: A Brief History of the Twenty-first Century,16759765,Thomas L. Friedman
+1919,Long Distance Relationships: The Complete Guide,1295,Gregory Guldner
+1928,Avalanche: Heretical Reflections on the Dark and the Light,596201,W. Brugh Joy
+1934,Little Women,1315,Louisa May Alcott
+1935,"Little Women (Little Women, #1)",1315,Louisa May Alcott
+1935,"Little Women (Little Women, #1)",78071,Scott McKowen
+1937,Little Women,1315,Louisa May Alcott
+1937,Little Women,341998,Jessie Willcox Smith
+1937,Little Women,539094,Frank T. Merrill
+1953,A Tale of Two Cities,239579,Charles Dickens
+1953,A Tale of Two Cities,61986,Richard Maxwell
+1956,A Tale of Two Cities,239579,Charles Dickens
+1956,A Tale of Two Cities,10072,Frederick Davidson
+1962,A Tale of Two Cities,239579,Charles Dickens
+1962,A Tale of Two Cities,106989,Richard Pasco
+1984,Bleak House,239579,Charles Dickens
+1984,Bleak House,11214,Mary Gaitskill
+1984,Bleak House,3128534,Hablot Knight Browne
+1990,Martin Chuzzlewit,239579,Charles Dickens
+1990,Martin Chuzzlewit,1340,Patricia Ingham
+1990,Martin Chuzzlewit,3128534,Hablot Knight Browne
+1991,Why Is Sex Fun? The Evolution of Human Sexuality (Science Masters),256,Jared Diamond
+1993,The Third Chimpanzee: The Evolution & Future of the Human Animal,256,Jared Diamond
+2002,Harry Potter Schoolbooks Box Set: Two Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry,1077326,J.K. Rowling
+2005,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",1077326,J.K. Rowling
+2010,The Santaroga Barrier,58,Frank Herbert
+2011,"The Dosadi Experiment (ConSentiency Universe, #2)",58,Frank Herbert
+2016,"King of the Vagabonds (The Baroque Cycle, Vol. 1, Book 2)",545,Neal Stephenson
+2046,"Stories and Early Novels: Pulp Stories / The Big Sleep / Farewell, My Lovely / The High Window",1377,Raymond Chandler
+2046,"Stories and Early Novels: Pulp Stories / The Big Sleep / Farewell, My Lovely / The High Window",71475,Frank MacShane
+2047,Collected Stories,1377,Raymond Chandler
+2047,Collected Stories,21660,John Bayley
+2049,The High Window,1377,Raymond Chandler
+2050,"Farewell, My Lovely",1377,Raymond Chandler
+2051,The Simple Art of Murder,1377,Raymond Chandler
+2052,The Big Sleep,1377,Raymond Chandler
+2053,"The Big Sleep; Farewell, My Lovely; The High Window",1377,Raymond Chandler
+2053,"The Big Sleep; Farewell, My Lovely; The High Window",2665,Diane Johnson
+2054,The Long Goodbye,1377,Raymond Chandler
+2069,Consciousness Explained,6952980,Daniel C. Dennett
+2093,The Illustrated A Brief History of Time,1401,Stephen Hawking
+2094,A Briefer History of Time,1401,Stephen Hawking
+2094,A Briefer History of Time,1399,Leonard Mlodinow
+2095,The Universe in a Nutshell,1401,Stephen Hawking
+2099,Stephen Hawking's Universe: The Cosmos Explained,1403,David Filkin
+2099,Stephen Hawking's Universe: The Cosmos Explained,1401,Stephen Hawking
+2111,The Theory of Everything: The Origin and Fate of the Universe,1401,Stephen Hawking
+2115,Atlas Shrugged & The Fountainhead,432,Ayn Rand
+2122,The Fountainhead,432,Ayn Rand
+2122,The Fountainhead,1421,Leonard Peikoff
+2124,The 3-Hour Diet (TM): How Low-Carb Diets Make You Fat and Timing Makes You Thin,1431,Jorge Cruise
+2124,The 3-Hour Diet (TM): How Low-Carb Diets Make You Fat and Timing Makes You Thin,1430,David L. Katz
+2126,The 3-Hour Diet: On the Go,1431,Jorge Cruise
+2131,The Hours,1432,Michael Cunningham
+2136,Specimen Days,1432,Michael Cunningham
+2137,A Home at the End of the World,1432,Michael Cunningham
+2139,Flesh and Blood,1432,Michael Cunningham
+2140,Blink: The Power of Thinking Without Thinking,1439,Malcolm Gladwell
+2141,In the Blink of an Eye: A Perspective on Film Editing,1440,Walter Murch
+2141,In the Blink of an Eye: A Perspective on Film Editing,7376,Francis Ford Coppola
+2150,Pride and Prejudice,1265,Jane Austen
+2150,Pride and Prejudice,2136297,Irene Sutcliffe
+2152,The Jane Austen Book Club,1448,Karen Joy Fowler
+2156,Persuasion,1265,Jane Austen
+2156,Persuasion,26484,Deidre Shauna Lynch
+2156,Persuasion,362983,James Kinsley
+2159,Confessions of an Economic Hit Man,1452,John Perkins
+2165,The Old Man and the Sea,1455,Ernest Hemingway
+2166,The Old Man and the Sea,1455,Ernest Hemingway
+2166,The Old Man and the Sea,274770,Donald Sutherland
+2168,The Old Man and the Sea,1455,Ernest Hemingway
+2169,The Old Man and the Sea,1455,Ernest Hemingway
+2175,Madame Bovary,1461,Gustave Flaubert
+2175,Madame Bovary,1460,Mark Overstall
+2175,Madame Bovary,54647,Malcolm Bowie
+2175,Madame Bovary,474490,Margaret Mauldon
+2176,Flaubert's Parrot,1462,Julian Barnes
+2179,A Sentimental Education,1461,Gustave Flaubert
+2179,A Sentimental Education,3514535,Douglas Parmée
+2183,Sentimental Education,1461,Gustave Flaubert
+2183,Sentimental Education,123090,Robert Baldick
+2183,Sentimental Education,1465,Geoffrey Wall
+2187,Middlesex,1467,Jeffrey Eugenides
+2199,Team of Rivals: The Political Genius of Abraham Lincoln,1476,Doris Kearns Goodwin
+2203,John Adams,6281688,David McCullough
+2205,The Letters of John and Abigail Adams,1479,Abigail Adams
+2205,The Letters of John and Abigail Adams,1478,Frank Shuffelton
+2249,The Seven Habits of Highly Effective People,1538,Stephen R. Covey
+2255,Way of the Peaceful Warrior: A Book That Changes Lives,1539,Dan Millman
+2256,Sacred Journey of the Peaceful Warrior,1539,Dan Millman
+2260,Wisdom of the Peaceful Warrior: A Companion to the Book That Changes Lives,1539,Dan Millman
+2265,It's Not about the Bike: My Journey Back to Life,1544,Lance Armstrong
+2265,It's Not about the Bike: My Journey Back to Life,1543,Sally Jenkins
+2270,Live Strong: Inspirational Stories from Cancer Survivors-from Diagnosis to Treatment and Beyond,8334542,The Lance Armstrong Foundation
+2270,Live Strong: Inspirational Stories from Cancer Survivors-from Diagnosis to Treatment and Beyond,1544,Lance Armstrong
+2273,A Prayer for the City,449547,H.G. Bissinger
+2273,A Prayer for the City,50344,Robert Clark
+2279,Truman,6281688,David McCullough
+2280,In Cold Blood,431149,Truman Capote
+2282,Breakfast at Tiffany's: A Short Novel and Three Stories,431149,Truman Capote
+2287,"Other Voices, Other Rooms",431149,Truman Capote
+2288,Answered Prayers: The Unfinished Novel,431149,Truman Capote
+2289,In Cold Blood,431149,Truman Capote
+2289,In Cold Blood,44554,Scott Brick
+2296,"Emergence: The Connected Lives of Ants, Brains, Cities, and Software",1563,Steven Johnson
+2306,The House of Mirth / The Reef / The Custom of the Country / The Age of Innocence,16,Edith Wharton
+2306,The House of Mirth / The Reef / The Custom of the Country / The Age of Innocence,145662,R.W.B. Lewis
+2314,The House of Mirth,16,Edith Wharton
+2330,The Languages of Tolkien's Middle-Earth,1583,Ruth S. Noel
+2330,The Languages of Tolkien's Middle-Earth,656983,J.R.R. Tolkien
+2331,The Lord of the Rings,656983,J.R.R. Tolkien
+2336,"Tandia (The Power of One, #2)",63,Bryce Courtenay
+2339,Jessica,63,Bryce Courtenay
+2341,"Tommo and Hawk (The Potato Factory, #2)",63,Bryce Courtenay
+2342,Power of One,63,Bryce Courtenay
+2343,"Solomon's Song (The Potato Factory, #3)",63,Bryce Courtenay
+2367,Brave Companions: Portraits in History,6281688,David McCullough
+2369,The Great Bridge: The Epic Story of the Building of the Brooklyn Bridge,6281688,David McCullough
+2370,John Adams,6281688,David McCullough
+2371,The Johnstown Flood,6281688,David McCullough
+2373,"The Bone Collector (Lincoln Rhyme, #1)",1612,Jeffery Deaver
+2389,Moby Dick,1624,Herman Melville
+2389,Moby Dick,52008,William Hootkins
+2390,Moby-Dick,1624,Herman Melville
+2390,Moby-Dick,2714113,Carl F. Hovde
+2391,Moby Dick (Great Illustrated Classics),1625,Shirley Bogart
+2391,Moby Dick (Great Illustrated Classics),1624,Herman Melville
+2422,The Three-Martini Playdate: A Practical Guide to Happy Parenting,1645,Christie Mellor
+2442,"Witches Abroad (Discworld, #12; Witches #3)",1654,Terry Pratchett
+2443,The Innocents Abroad,1244,Mark Twain
+2443,The Innocents Abroad,277654,Grover Gardner
+2447,The Future of Freedom: Illiberal Democracy at Home and Abroad,1658,Fareed Zakaria
+2486,Death and the King's Horseman,978,Wole Soyinka
+2486,Death and the King's Horseman,21212,Simon Gikandi
+2493,The Time Machine,880695,H.G. Wells
+2493,The Time Machine,16024,Greg Bear
+2493,The Time Machine,4417406,Carlo Pagetti
+2494,The Time Machine,880695,H.G. Wells
+2494,The Time Machine,68764,Patrick Parrinder
+2494,The Time Machine,427671,Steven McLean
+2494,The Time Machine,66285,Marina Warner
+2498,The Time Machine Did It,1717,John Swartzwelder
+2500,The Time Machine,880695,H.G. Wells
+2517,My Name Is Red,1728,Orhan Pamuk
+2517,My Name Is Red,2864594,Erdağ M. Göknar
+2519,The Name of the Rose,1730,Umberto Eco
+2519,The Name of the Rose,6921,William Weaver
+2525,Seeing,1285555,José Saramago
+2525,Seeing,24758,Margaret Jull Costa
+2526,Blindness,1285555,José Saramago
+2526,Blindness,1739,Giovanni Pontiero
+2527,The Gospel According to Jesus Christ,1285555,José Saramago
+2527,The Gospel According to Jesus Christ,1739,Giovanni Pontiero
+2528,All the Names,1285555,José Saramago
+2528,All the Names,24758,Margaret Jull Costa
+2529,The Tale of the Unknown Island,1285555,José Saramago
+2529,The Tale of the Unknown Island,8658,Peter Sís
+2529,The Tale of the Unknown Island,24758,Margaret Jull Costa
+2531,The Cave,1285555,José Saramago
+2531,The Cave,24758,Margaret Jull Costa
+2536,The Year of the Death of Ricardo Reis,1285555,José Saramago
+2536,The Year of the Death of Ricardo Reis,1739,Giovanni Pontiero
+2538,El hombre duplicado,1285555,José Saramago
+2538,El hombre duplicado,2905772,Pilar del Río
+2541,La caverna,1285555,José Saramago
+2541,La caverna,2905772,Pilar del Río
+2543,Las intermitencias de la muerte,1285555,José Saramago
+2543,Las intermitencias de la muerte,2905772,Pilar del Río
+2544,The Madman,6466154,Kahlil Gibran
+2544,The Madman,17888244,جبران خليل جبران
+2547,The Prophet,6466154,Kahlil Gibran
+2549,A Tear and a Smile,6466154,Kahlil Gibran
+2549,A Tear and a Smile,17888244,جبران خليل جبران
+2549,A Tear and a Smile,3850904,H.M. Nahmad
+2549,A Tear and a Smile,1534308,Robert Hillyer
+2551,On the Road,1742,Jack Kerouac
+2552,On the Road,1742,Jack Kerouac
+2552,On the Road,13460,Ann Charters
+2557,De Kooning: An American Master,1746,Mark Stevens
+2557,De Kooning: An American Master,1745,Annalyn Swan
+2565,Pride and Prejudice,1265,Jane Austen
+2574,The Long Tail: Why the Future of Business Is Selling Less of More,1756,Chris Anderson
+2575,The Long Tail:  Why The Future Is Selling Less Of More,1756,Chris Anderson
+2590,The Art of War by Sun Tzu,1771,Sun Tzu
+2590,The Art of War by Sun Tzu,309790,James H. Ford
+2590,The Art of War by Sun Tzu,2978206,Shawn Conners
+2590,The Art of War by Sun Tzu,399312,Lionel Giles
+2595,Marketing Warfare,1780,Al Ries
+2595,Marketing Warfare,1779,Jack Trout
+2612,The Tipping Point: How Little Things Can Make a Big Difference,1439,Malcolm Gladwell
+2615,The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business,1792,Clayton M. Christensen
+2615,The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business,796859,L.J. Ganser

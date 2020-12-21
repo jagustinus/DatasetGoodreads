@@ -1,0 +1,732 @@
+book_id,book_title,author_id,author_name
+91600,Cold Sassy Tree,52627,Olive Ann Burns
+91607,A Midsummer Night's Dream (Tales from Shakespeare Series),947,William Shakespeare
+91609,The Tempest,25541,John Escott
+91609,The Tempest,947,William Shakespeare
+91659,"Gabriela, clavo y canela",52683,Jorge Amado
+91661,"The Beekeeper's Apprentice (Mary Russell and Sherlock Holmes, #1)",6760,Laurie R. King
+91682,Revolutionary Suicide,52705,Huey P. Newton
+91682,Revolutionary Suicide,52704,J. Herman Blake
+91688,Babel Tower,1169504,A.S. Byatt
+91697,Sophie's Choice,7565,William Styron
+91700,Blue Shoe,7113,Anne Lamott
+91712,Comic Wars: Marvel's Battle For Survival,52725,Dan Raviv
+91741,Dali's Mustache,52750,Philippe Halsman
+91741,Dali's Mustache,165858,Salvador Dalí
+91745,The Shameful Life of Salvador Dalí,12755,Ian Gibson
+91746,Diary of a Genius,165858,Salvador Dalí
+91746,Diary of a Genius,7010931,J.G. Ballard
+91754,Dalí: Spanish-Language Edition,187210,Gilles Néret
+91754,Dalí: Spanish-Language Edition,52736,Robert Descharnes
+91760,The Diary of Frida Kahlo: An Intimate Self-Portrait,52760,Frida Kahlo
+91760,The Diary of Frida Kahlo: An Intimate Self-Portrait,1367127,Carlos Fuentes
+91760,The Diary of Frida Kahlo: An Intimate Self-Portrait,264271,Sarah M. Lowe
+91765,Frida Kahlo: The Painter and Her Work,52762,Helga Prignitz-Poda
+91765,Frida Kahlo: The Painter and Her Work,52760,Frida Kahlo
+91781,"King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine",71193,Robert L. Moore
+91781,"King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine",52770,Douglas Gillette
+91790,"The Thief, the Cross and the Wheel: Pain and the Spectacle of Punishment in Medieval and Renaissance Europe",52782,Mitchell B. Merback
+91806,Heads by Harry,32871,Lois-Ann Yamanaka
+91807,Wild Meat and the Bully Burgers,32871,Lois-Ann Yamanaka
+91810,Father of the Four Passages,32871,Lois-Ann Yamanaka
+91817,Name Me Nobody,32871,Lois-Ann Yamanaka
+91843,The Other Hollywood: The Uncensored Oral History of the Porn Film Industry,9097,Legs McNeil
+91843,The Other Hollywood: The Uncensored Oral History of the Porn Film Industry,52809,Jennifer Osborne
+91843,The Other Hollywood: The Uncensored Oral History of the Porn Film Industry,303571,Peter Pavia
+91847,"Good Blood (Gideon Oliver, #11)",157986,Aaron Elkins
+91848,"Fellowship of Fear (Gideon Oliver, #1)",157986,Aaron Elkins
+91850,"Old Bones (Gideon Oliver, #4)",157986,Aaron Elkins
+91852,"Murder in the Queen's Armes (Gideon Oliver, #3)",157986,Aaron Elkins
+91860,The Bullfighter Checks Her Makeup: My Encounters With Extraordinary People,45374,Susan Orlean
+91871,"Skin: Talking about Sex, Class and Literature",5599,Dorothy Allison
+91873,Two or Three Things I Know for Sure,5599,Dorothy Allison
+91904,Screenwriting: The Sequence Approach,52840,Paul Joseph Gulino
+91922,Wedding Chic: The Savvy Bride's Guide to Getting More While Spending Less,52846,Nina Willdorf
+91939,Dracula,52852,Diane Mowat
+91939,Dracula,6988,Bram Stoker
+91939,Dracula,8795,Jennifer Bassett
+91939,Dracula,7245,Tricia Hedge
+91950,The Myth of Sisyphus,957894,Albert Camus
+91950,The Myth of Sisyphus,2435,Justin O'Brien
+91950,The Myth of Sisyphus,1658797,Corrado Rosso
+91950,The Myth of Sisyphus,26341,James  Wood
+91953,Leviathan,10122,Thomas Hobbes
+91953,Leviathan,197338,Crawford Brough Macpherson
+91973,"A Clash of Kings (A Song of Ice and Fire, #2)",346732,George R.R. Martin
+91980,The Mountains of California,5297,John Muir
+91980,The Mountains of California,16916,Gretel Ehrlich
+91981,"The Dragonbone Chair (Memory, Sorrow, and Thorn, #1)",6587,Tad Williams
+91989,"Black Powder War (Temeraire, #3)",8730,Naomi Novik
+92057,The Autobiography of Malcolm X,17435,Malcolm X
+92057,The Autobiography of Malcolm X,17434,Alex Haley
+92058,The Matrix Comics Vol 1,6467335,Lana Wachowski
+92058,The Matrix Comics Vol 1,19328142,Lilly Wachowski
+92058,The Matrix Comics Vol 1,52921,Geof Darrow
+92062,"The Doll's House (The Sandman, #2)",1221698,Neil Gaiman
+92062,"The Doll's House (The Sandman, #2)",7271,Mike Dringenberg
+92062,"The Doll's House (The Sandman, #2)",52930,Malcolm Jones III
+92062,"The Doll's House (The Sandman, #2)",12726,Chris Bachalo
+92062,"The Doll's House (The Sandman, #2)",10224,Michael Zulli
+92062,"The Doll's House (The Sandman, #2)",554069,Steve Parkhouse
+92062,"The Doll's House (The Sandman, #2)",10366,Clive Barker
+92145,Flesh and Bone (Body Farm #2),2747568,Jefferson Bass
+92146,"Carved in Bone (Body Farm, #1)",2747568,Jefferson Bass
+92147,"Map of Bones (Sigma Force, #2)",38809,James Rollins
+92159,The Forest,16204,Edward Rutherfurd
+92160,London,16204,Edward Rutherfurd
+92162,Russka: The Novel of Russia,16204,Edward Rutherfurd
+92163,Sarum: The Novel of England,16204,Edward Rutherfurd
+92192,Filth,5687,Irvine Welsh
+92198,The Morning Star 3-Volume Boxed Set,28699,Nick Bantock
+92206,Capolan: Travels of a Vagabond Country Artbox,28699,Nick Bantock
+92222,Gryphon Hc (Seuil),28699,Nick Bantock
+92230,Snobs,8759,Julian Fellowes
+92250,Millennium Approaches (Angels in America #1),35822,Tony Kushner
+92254,Perestroika (Angels in America #2),35822,Tony Kushner
+92280,Requiem for a Dream (Screenplay),53010,Darren Aronofsky
+92280,Requiem for a Dream (Screenplay),26335,Hubert Selby Jr.
+92303,The Importance of Being Earnest,3565,Oscar Wilde
+92307,Being and Time,6191,Martin Heidegger
+92308,The Importance of Being Earnest and Other Plays,3565,Oscar Wilde
+92308,The Importance of Being Earnest and Other Plays,111336,Richard Allen Cave
+92364,Eye of the Needle,3447,Ken Follett
+92365,Mysterious Skin,53047,Scott Heim
+92367,Whiteout,3447,Ken Follett
+92371,Lie Down with Lions,3447,Ken Follett
+92375,Hornet Flight,3447,Ken Follett
+92401,The O. Henry Prize Stories 2007,8992,Laura Furman
+92401,The O. Henry Prize Stories 2007,83853,Charles D'Ambrosio
+92401,The O. Henry Prize Stories 2007,874602,Ursula K. Le Guin
+92401,The O. Henry Prize Stories 2007,44031,Lily Tuck
+92402,Introduction to Metaphysics,6191,Martin Heidegger
+92402,Introduction to Metaphysics,58703,Richard Polt
+92402,Introduction to Metaphysics,67743,Gregory Fried
+92442,The Gift of Nothing,53088,Patrick McDonnell
+92447,Last-Minute Knitted Gifts,53092,Joelle Hoverson
+92447,Last-Minute Knitted Gifts,33195,Anna Williams
+92448,"The Foreigner's Gift: The Americans, the Arabs, and the Iraqis in Iraq",12322,Fouad Ajami
+92484,Emma Who Saved My Life,53119,Wilton Barnhardt
+92488,Prague,16223,Arthur Phillips
+92508,The Bridge of San Luis Rey,44061,Thornton Wilder
+92517,The Glass Menagerie,7751,Tennessee Williams
+92517,The Glass Menagerie,402470,Robert Bray
+92519,Tennessee Williams's The glass menagerie (Monarch notes),380416,Gilbert L. Rathbun
+92523,Sir Vidia's Shadow: A Friendship Across Five Continents,9599,Paul Theroux
+92559,Being Dead,13843,Jim Crace
+92569,On the Yard,53160,Malcolm Braly
+92569,On the Yard,6404,Jonathan Lethem
+92570,The Loser,7745,Thomas Bernhard
+92570,The Loser,3295704,Jack Dawson
+92571,Gargoyles,7745,Thomas Bernhard
+92571,Gargoyles,35436,Richard Winston
+92571,Gargoyles,245392,Clara Winston
+92572,Yes,7745,Thomas Bernhard
+92572,Yes,65276,Ewald Osers
+92573,Correction,7745,Thomas Bernhard
+92573,Correction,421561,Sophie Wilkins
+92575,Concrete,7745,Thomas Bernhard
+92575,Concrete,545103,David McLintock
+92576,Woodcutters,7745,Thomas Bernhard
+92576,Woodcutters,545103,David McLintock
+92577,Thomas Bernhard: The Making of an Austrian,53162,Gitta Honegger
+92578,Wittgenstein's Nephew,7745,Thomas Bernhard
+92578,Wittgenstein's Nephew,545103,David McLintock
+92579,The Last Slice of Rainbow and Other Stories,12075,Joan Aiken
+92579,The Last Slice of Rainbow and Other Stories,79319,Alix Berenzy
+92610,"Rocannon's World (Hainish Cycle, #1)",874602,Ursula K. Le Guin
+92644,The World to Come,53185,Dara Horn
+92746,The Gas We Pass: The Story of Farts,53248,Shinta Cho
+92746,The Gas We Pass: The Story of Farts,608835,Amanda Mayer Stinchecum
+92755,"The Riddle-Master of Hed (Riddle-Master, #1)",25,Patricia A. McKillip
+92771,Ibid,9993,Mark Dunn
+92780,Cold Comfort Farm,53259,Stella Gibbons
+92780,Cold Comfort Farm,5571,Lynne Truss
+92780,Cold Comfort Farm,56952,Roz Chast
+92831,Waiting for Lefty and Other Plays,12725,Clifford Odets
+92833,The Digital Photography Book (Volume 1),53283,Scott Kelby
+92855,"First King of Shannara (The Original Shannara Trilogy, #0)",9629,Terry Brooks
+92862,Dreamland,2095,Kevin Baker
+92918,"Krondor: The Betrayal (The Riftwar Legacy, #1)",8588,Raymond E. Feist
+92936,Red Azalea,686103,Anchee Min
+92956,"The Memory of Earth (Homecoming, #1)",589,Orson Scott Card
+92957,"Homecoming: Harmony (Homecoming Saga, #1-3)",589,Orson Scott Card
+92958,"Protect and Defend (Kerry Kilcannon, #2)",38537,Richard North Patterson
+92961,The Folk of the Fringe,589,Orson Scott Card
+92966,The Joy of Life,4750,Émile Zola
+92966,The Joy of Life,4749,Ernest Alfred Vizetelly
+92970,Billie Holiday: The Lady Sings the Blues,53334,Billie Holiday
+92974,A Planet Called Treason,589,Orson Scott Card
+92999,"In These Girls, Hope is a Muscle",53347,Madeleine Blais
+93000,"Piano/Vocal/Guitar Sheet Music: The Chronicles of Narnia: The Lion, the Witch and The Wardrobe",53348,Harry Gregson-Williams
+93003,"The Horse and His Boy (Chronicles of Narnia, #3)",1069006,C.S. Lewis
+93012,Robin Hood: A Classic Illustrated Edition,317726,E. Charles Vivian
+93013,Robin Hood,53352,Paul Creswick
+93013,Robin Hood,12069,Timothy Meis
+93014,Robin Hood,39111,Benedict Flynn
+93014,Robin Hood,7495798,Katie  Flynn
+93014,Robin Hood,1439046,John McAndrew
+93068,Theories of Art Today,17943,Noël Carroll
+93093,Seven Voyages of Sinbad the Sailor,3230,Philip Reed
+93101,The Arabian Nights,5158478,Anonymous
+93101,The Arabian Nights,4197526,Richard Francis Burton
+93101,The Arabian Nights,1169504,A.S. Byatt
+93116,Suds in Your Eye,53423,Mary Lasswell
+93116,Suds in Your Eye,53422,Jack Kirkland
+93117,The Caucasian Chalk Circle,26853,Bertolt Brecht
+93117,The Caucasian Chalk Circle,114736,Hugh Rorrison
+93117,The Caucasian Chalk Circle,778357,James Stern
+93117,The Caucasian Chalk Circle,2916716,Tania Stern
+93117,The Caucasian Chalk Circle,233593,W.H. Auden
+93124,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",1077326,J.K. Rowling
+93132,Eyes of the Tailless Animals: Prison Memoirs of a North Korean Woman,10795588,Soon Ok Lee
+93134,The Mysteries of Udolpho,43220,Ann Radcliffe
+93134,The Mysteries of Udolpho,53430,Jacqueline Howard
+93136,The Italian,43220,Ann Radcliffe
+93136,The Italian,595839,Robert Miles
+93172,Opal: The Journal of an Understanding Heart,105590,Opal Whiteley
+93173,"How Opal Mehta Got Kissed, Got Wild, and Got a Life",53462,Kaavya Viswanathan
+93187,The Blue Cat of Castle Town,4601173,Catherine Cate Coblentz
+93187,The Blue Cat of Castle Town,2198705,Janice Holland
+93188,Dead Souls,232932,Nikolai Gogol
+93188,Dead Souls,217371,David Magarshack
+93199,Lobscouse and Spotted Dog: Which It's a Gastronomic Companion to the Aubrey/Maturin Novels,53471,Anne Chotzinoff Grossman
+93199,Lobscouse and Spotted Dog: Which It's a Gastronomic Companion to the Aubrey/Maturin Novels,5600,Patrick O'Brian
+93199,Lobscouse and Spotted Dog: Which It's a Gastronomic Companion to the Aubrey/Maturin Novels,53470,Lisa Grossman Thomas
+93219,The Best Ghost Stories Of Algernon Blackwood,38840,Algernon Blackwood
+93269,Earth Abides,53501,George R. Stewart
+93297,Le Morte D'arthur,53519,Thomas Malory
+93297,Le Morte D'arthur,3887959,Stephen H.A. Shepherd
+93313,Christ in Concrete,53524,Pietro Di Donato
+93313,Christ in Concrete,33716,Studs Terkel
+93370,"Akira, Vol. 2",53559,Katsuhiro Otomo
+93370,"Akira, Vol. 2",3887388,Yoko Umezawa
+93370,"Akira, Vol. 2",15087879,Linda M. York
+93370,"Akira, Vol. 2",19840061,Jo Duffy
+93371,"Akira, Vol. 1",53559,Katsuhiro Otomo
+93371,"Akira, Vol. 1",3887388,Yoko Umezawa
+93371,"Akira, Vol. 1",15087879,Linda M. York
+93371,"Akira, Vol. 1",19840061,Jo Duffy
+93372,"Akira, Vol. 3",53559,Katsuhiro Otomo
+93372,"Akira, Vol. 3",3887388,Yoko Umezawa
+93372,"Akira, Vol. 3",15087879,Linda M. York
+93372,"Akira, Vol. 3",19840061,Jo Duffy
+93374,"Akira, Vol. 4",53559,Katsuhiro Otomo
+93374,"Akira, Vol. 4",3887388,Yoko Umezawa
+93374,"Akira, Vol. 4",19840061,Jo Duffy
+93380,"The Boxcar Children 1-4 (The Boxcar Children, #1-4)",10665,Gertrude Chandler Warner
+93383,Dream Angus: The Celtic God of Dreams,4738,Alexander McCall Smith
+93391,Akira,53559,Katsuhiro Otomo
+93405,The Notebooks of Malte Laurids Brigge,7906,Rainer Maria Rilke
+93405,The Notebooks of Malte Laurids Brigge,5445888,Mary Dows Herter Norton
+93426,Genghis Khan and the Making of the Modern World,2497,Jack Weatherford
+93426,Genghis Khan and the Making of the Modern World,5818303,Jonathan Davis
+93453,When Will Jesus Bring the Pork Chops?,22782,George Carlin
+93485,Cross Creek,46158,Marjorie Kinnan Rawlings
+93485,Cross Creek,415141,Edward Shenton
+93502,Touching from a Distance: Ian Curtis and Joy Division,53645,Deborah Curtis
+93504,The Omnivore's Dilemma: A Natural History of Four Meals,2121,Michael Pollan
+93509,Marie Antoinette: The Last Queen of France,3337147,Évelyne Lever
+93509,Marie Antoinette: The Last Queen of France,126008,Catherine Temerson
+93517,Dragon Seed,704,Pearl S. Buck
+93519,The Child Who Never Grew,704,Pearl S. Buck
+93519,The Child Who Never Grew,7995,James A. Michener
+93537,Spartacus,43719,Howard Fast
+93571,Dark Nights of the Soul: A Guide to Finding Your Way Through Life's Ordeals,1495208,Thomas  Moore
+93575,"Gaudy Night (Lord Peter Wimsey, #12)",8734,Dorothy L. Sayers
+93598,Carver: A Life in Poems,53711,Marilyn Nelson
+93633,"Trzy Kolory: Niebieski, Biały, Czerwony:  Scenariusze Filmowe",2932735,Krzysztof Kieślowski
+93650,A Court Divided: The Rehnquist Court and the Future of Constitutional Law,6777639,Mark Tushnet
+93653,Stalin,8522960,Edvard Radzinsky
+93653,Stalin,192496,H.T. Willetts
+93685,The Geography of Thought: How Asians and Westerners Think Differently-- And Why,132677,Richard E. Nisbett
+93711,In Defense of Globalization,53783,Jagdish N. Bhagwati
+93721,Longitudes and Attitudes: The World in the Age of Terrorism,16759765,Thomas L. Friedman
+93721,Longitudes and Attitudes: The World in the Age of Terrorism,3434911,Debbie Glasserman
+93722,"The Boy Next Door (Boy, #1)",11654,Meg Cabot
+93723,"Boy Meets Girl (Boy, #2)",11654,Meg Cabot
+93742,Perfect Princess (The Princess Diaries),11654,Meg Cabot
+93742,Perfect Princess (The Princess Diaries),3044411,Chelsea McLaren
+93788,"Night Fall (John Corey, #3)",1238,Nelson DeMille
+93789,The Third Twin,3447,Ken Follett
+93794,"The Kill Artist (Gabriel Allon, #1)",29085,Daniel Silva
+93795,"The English Assassin (Gabriel Allon, #2)",29085,Daniel Silva
+93801,"The Confessor (Gabriel Allon, #3)",29085,Daniel Silva
+93802,"A Death in Vienna (Gabriel Allon, #4)",29085,Daniel Silva
+93803,Dogs and Demons: Tales From the Dark Side of Modern Japan,24014,Alex Kerr
+93808,"The Cold Moon (Lincoln Rhyme, #7)",1612,Jeffery Deaver
+93811,"Dark Light (Doc Ford Mystery, #13)",27932,Randy Wayne White
+93812,"Sanibel Flats (Doc Ford, #1)",27932,Randy Wayne White
+93813,"Dead of Night (Doc Ford Mystery, #12)",27932,Randy Wayne White
+93829,Anonymous Lawyer,2079,Jeremy Blachman
+93839,The Key,6263,Jun'ichirō Tanizaki
+93839,The Key,15997305,Zihni Küçümen
+93846,Torts and Compensation: Personal Accountability and Social Responsibility for Injury,53833,Dan B. Dobbs
+93846,Torts and Compensation: Personal Accountability and Social Responsibility for Injury,22143,Paul T. Hayden
+93902,The Annotated Lolita,5152,Vladimir Nabokov
+93902,The Annotated Lolita,65184,Alfred Appel
+93903,Machine That Changed the World: The Story of Lean Production,15060996,James P. Womack
+93903,Machine That Changed the World: The Story of Lean Production,53871,Daniel T. Jones
+93903,Machine That Changed the World: The Story of Lean Production,53872,Daniel Roos
+93926,Phantom of Fact: A Guide to Nabokov's Pnin,973651,Gennady Barabtarlo
+93940,"Locked Rooms (Mary Russell and Sherlock Holmes, #8)",6760,Laurie R. King
+93941,"The King Must Die (Theseus, #1)",38185,Mary Renault
+93945,Mahatma Gandhi And Martin Luther King Jr.: The Power Of Nonviolent Action,53901,Mary King
+93946,The Winner,9291,David Baldacci
+93947,"Simple Genius (Sean King & Michelle Maxwell, #3)",9291,David Baldacci
+93959,Hirohito and the Making of Modern Japan,53909,Herbert P. Bix
+93981,The Interpretation of Dreams,10017,Sigmund Freud
+93987,Judgment Day,32743,Jane Jensen
+93987,Judgment Day,3888313,Shelly Shapiro
+93988,Dante's Equation,32743,Jane Jensen
+93996,"Hitler: 1889-1936 Hubris (Hitler, #1)",30702,Ian Kershaw
+94034,Q,36686,Luther Blissett
+94034,Q,319857,Shaun Whiteside
+94034,Q,191397,Wu  Ming
+94040,America's Women,53959,Gail Collins
+94053,River Town: Two Years on the Yangtze,6367,Peter Hessler
+94060,So Hard to Say,53974,Alex   Sanchez
+94061,Getting It,53974,Alex   Sanchez
+94062,"Rainbow Road (Rainbow Trilogy, #3)",53974,Alex   Sanchez
+94063,"Rainbow High (Rainbow Trilogy, #2)",53974,Alex   Sanchez
+94064,"Rainbow Boys (Rainbow Trilogy, #1)",53974,Alex   Sanchez
+94071,Grand & Humble,53984,Brent Hartinger
+94072,"Geography Club (Russel Middlebrook, #1)",53984,Brent Hartinger
+94073,"The Order of the Poison Oak (Russel Middlebrook, #2)",53984,Brent Hartinger
+94078,M or F?,53988,Lisa Papademetriou
+94078,M or F?,464986,Chris Tebbetts
+94078,M or F?,53987,Christopher Tebbetts
+94114,Alijanab I Surkhpush Va Alijanaban I Khakistari: Asibshinasi I Guzar Bih Dawlat I Dimukratik I Tawsiahgara (Farhang I Umumi),603392,Akbar Ganji
+94139,The Yalom Reader: Selections From The Work Of A Master Therapist And Storyteller,909675,Irvin D. Yalom
+94139,The Yalom Reader: Selections From The Work Of A Master Therapist And Storyteller,3888386,Ben Yalom
+94151,Nuage En Pantalon,5583754,Vladimir Vladimirovič Maâkovskij
+94174,"Exile (Garnethill, #2)",54069,Denise Mina
+94175,"Resolution (Garnethill, #3)",54069,Denise Mina
+94176,"The Dead Hour (Paddy Meehan, #2)",54069,Denise Mina
+94179,Deception,54069,Denise Mina
+94180,"Field of Blood (Paddy Meehan, #1)",54069,Denise Mina
+94191,Patria,575,Robert   Harris
+94194,Fuhrer,54081,Allan Prior
+94198,Una princesa en Berlín,54083,Arthur R.G. Solmssen
+94198,Una princesa en Berlín,5444075,Raúl Acuña
+94204,La metamorfosis,5223,Franz Kafka
+94213,Dios y mi ley,243588,Alfred Duggan
+94214,Un frío viento del infierno,25539,Carlos Puerto
+94215,"Yo, Isabel La Catolica",723310,César Vidal
+94222,Siete Años En El Tibet,38329,Heinrich Harrer
+94222,Siete Años En El Tibet,7115655,María Teresa Monguió
+94223,El Ultimo Merovingio,19124,Jim Hougan
+94249,The Greatest Man in Cedar Hole: A Novel,54129,Stephanie Doyon
+94280,Romanzi e racconti - vol. 1,155517,Italo Calvino
+94280,Romanzi e racconti - vol. 1,4374342,Mario Barenghi
+94280,Romanzi e racconti - vol. 1,297697,Bruno Falcetto
+94280,Romanzi e racconti - vol. 1,202270,Jean Starobinski
+94290,"The Wind Dancer (Wind Dancer, #1)",32498,Iris Johansen
+94299,"The Search (Eve Duncan, #3)",32498,Iris Johansen
+94318,Awareness: The Perils and Opportunities of Reality,54195,Anthony de Mello
+94318,Awareness: The Perils and Opportunities of Reality,1390859,J. Francis Stroud
+94324,La cabeza de la hidra,1367127,Carlos Fuentes
+94348,The Real Life of Alejandro Mayta,22515,Mario Vargas Llosa
+94348,The Real Life of Alejandro Mayta,4449011,Alfred J. Mac Adam
+94349,El pez en el agua,22515,Mario Vargas Llosa
+94351,Death in the Andes,22515,Mario Vargas Llosa
+94351,Death in the Andes,2599,Edith Grossman
+94438,Why I Wore Lipstick: To My Mastectomy,54300,Geralyn Lucas
+94486,The Invention of Morel,3424060,Adolfo Bioy Casares
+94486,The Invention of Morel,440315,Ruth L.C. Simms
+94486,The Invention of Morel,500,Jorge Luis Borges
+94486,The Invention of Morel,125840,Suzanne Jill Levine
+94486,The Invention of Morel,6437435,Norah Borges de Torre
+94494,Which Brings Me to You,28596,Steve Almond
+94494,Which Brings Me to You,16304,Julianna Baggott
+94510,"100 Bullets, Vol. 1: First Shot, Last Call",17029,Brian Azzarello
+94510,"100 Bullets, Vol. 1: First Shot, Last Call",54360,Eduardo Risso
+94513,"100 Bullets, Vol. 2: Split Second Chance",17029,Brian Azzarello
+94513,"100 Bullets, Vol. 2: Split Second Chance",54360,Eduardo Risso
+94514,"100 Bullets, Vol. 6: Six Feet Under the Gun",17029,Brian Azzarello
+94514,"100 Bullets, Vol. 6: Six Feet Under the Gun",54360,Eduardo Risso
+94515,"100 Bullets, Vol. 7: Samurai",17029,Brian Azzarello
+94515,"100 Bullets, Vol. 7: Samurai",54360,Eduardo Risso
+94516,"100 Bullets, Vol. 5: The Counterfifth Detective",17029,Brian Azzarello
+94516,"100 Bullets, Vol. 5: The Counterfifth Detective",54360,Eduardo Risso
+94517,"100 Bullets, Vol. 4: A Foregone Tomorrow",17029,Brian Azzarello
+94517,"100 Bullets, Vol. 4: A Foregone Tomorrow",54360,Eduardo Risso
+94529,Blue Latitudes: Boldly Going Where Captain Cook Has Gone Before,16541,Tony Horwitz
+94554,Love in the Driest Season: A Family Memoir,54387,Neely Tucker
+94562,Tube of Plenty: The Evolution of American Television,54390,Erik Barnouw
+94578,The Gay Science,1938,Friedrich Nietzsche
+94578,The Gay Science,14824,Walter Kaufmann
+94579,"Nietzsche, Volumes One and Two",6191,Martin Heidegger
+94579,"Nietzsche, Volumes One and Two",4133,David Farrell Krell
+94584,Poems 1913-1956,26853,Bertolt Brecht
+94584,Poems 1913-1956,121840,Kathleen Raine
+94584,Poems 1913-1956,3888600,R.M. Nadal
+94597,The Caucasian Chalk Circle,26853,Bertolt Brecht
+94597,The Caucasian Chalk Circle,5222,Eric Bentley
+94607,The Ring of Brightest Angels Around Heaven: A Novella and Stories,2278,Rick Moody
+94626,"The Good Person of Szechwan, Mother Courage and Her Children, Fear and Misery of the Third Reich",26853,Bertolt Brecht
+94626,"The Good Person of Szechwan, Mother Courage and Her Children, Fear and Misery of the Third Reich",38450,John Willett
+94628,Brecht Collected Plays: 2: Man Equals Man; Elephant Calf; Threepenny Opera; Mahagonny; Seven Deadly Sins,26853,Bertolt Brecht
+94628,Brecht Collected Plays: 2: Man Equals Man; Elephant Calf; Threepenny Opera; Mahagonny; Seven Deadly Sins,38450,John Willett
+94628,Brecht Collected Plays: 2: Man Equals Man; Elephant Calf; Threepenny Opera; Mahagonny; Seven Deadly Sins,38449,Ralph Manheim
+94628,Brecht Collected Plays: 2: Man Equals Man; Elephant Calf; Threepenny Opera; Mahagonny; Seven Deadly Sins,5773697,Gerhard Nellhaus
+94628,Brecht Collected Plays: 2: Man Equals Man; Elephant Calf; Threepenny Opera; Mahagonny; Seven Deadly Sins,636980,Chester Kallman
+94628,Brecht Collected Plays: 2: Man Equals Man; Elephant Calf; Threepenny Opera; Mahagonny; Seven Deadly Sins,233593,W.H. Auden
+94634,German Short Stories 1: Parallel Text Edition,494603,Richard Newnham
+94634,German Short Stories 1: Parallel Text Edition,39326,Heinrich Böll
+94634,German Short Stories 1: Parallel Text Edition,1026895,Reinhard Lettau
+94634,German Short Stories 1: Parallel Text Edition,177946,Ilse Aichinger
+94634,German Short Stories 1: Parallel Text Edition,279664,Hans Bender
+94634,German Short Stories 1: Parallel Text Edition,424024,Gertrud Fussenegger
+94634,German Short Stories 1: Parallel Text Edition,1752350,Gerd Gaiser
+94634,German Short Stories 1: Parallel Text Edition,681421,Wolfdietrich Schnurre
+94634,German Short Stories 1: Parallel Text Edition,72654,Wolfgang Borchert
+94654,Masochism: Coldness and Cruelty & Venus in Furs,13009,Gilles Deleuze
+94654,Masochism: Coldness and Cruelty & Venus in Furs,77556,Leopold von Sacher-Masoch
+94654,Masochism: Coldness and Cruelty & Venus in Furs,189004,Jean McNeil
+94669,The Mistress of Spices,51589,Chitra Banerjee Divakaruni
+94672,Beneath a Marble Sky,54450,John Shors
+94673,The Highest Tide,54451,Jim Lynch
+94675,An Actor Prepares,54455,Konstantin Stanislavski
+94675,An Actor Prepares,103766,Elizabeth Reynolds Hapgood
+94676,Building a Character,54455,Konstantin Stanislavski
+94679,Creating a Role,54455,Konstantin Stanislavski
+94679,Creating a Role,3888640,Hermine I. Popper
+94679,Creating a Role,103766,Elizabeth Reynolds Hapgood
+94689,Art and Civilization,28536,Edward Lucie-Smith
+94689,Art and Civilization,1590828,Barbara Mercer
+94702,The Mount,54462,Carol Emshwiller
+94739,An American Brat,22607,Bapsi Sidhwa
+94757,The Holy,10330,Daniel Quinn
+94759,The Story of B: An Adventure of the Mind and Spirit,10330,Daniel Quinn
+94767,"The Waste Lands (The Dark Tower, #3)",3389,Stephen King
+94767,"The Waste Lands (The Dark Tower, #3)",7431,Ned Dameron
+94786,Contact,10538,Carl Sagan
+94788,"Augusta, Gone: A True Story",54514,Martha Tod Dudman
+94798,Halo: Ghosts of Onyx,33958,Eric S. Nylund
+94799,Ghost Soldiers: The Epic Account of World War II's Greatest Rescue Mission,54521,Hampton Sides
+94802,Frog and Toad Are Friends Book and Tape (I Can Read Book 2),12447,Arnold Lobel
+94803,"Frog and Toad Together (Frog and Toad, #2)",12447,Arnold Lobel
+94804,"Days with Frog and Toad (Frog and Toad, #4)",12447,Arnold Lobel
+94830,Verse Form and Meaning in the Poetry of Vladimir Maiakovskii,1015865,Robin Aizlewood
+94856,Don Carlos,1399243,Friedrich Schiller
+94856,Don Carlos,432768,Mike Poulton
+94908,"Five Plays: The Robbers, Passion and Politics, Don Carlos, Mary Stuart, Joan of Arc",1399243,Friedrich Schiller
+94945,Minor Characters: A Beat Memoir,6885,Joyce Johnson
+94945,Minor Characters: A Beat Memoir,4451052,Ann  Douglas
+94951,N. C. Wyeth: A Biography,54620,David Michaelis
+94964,Treasure Island,854076,Robert Louis Stevenson
+94964,Treasure Island,54622,N.C. Wyeth
+94978,Low,54638,Hugo Wilcken
+95021,Aquagenesis: The Origin and Evolution of Life in the Sea,8366711,Richard   Ellis
+95078,Henry and Clara,2096,Thomas Mallon
+95101,White People,12585,Allan Gurganus
+95105,Oldest Living Confederate Widow Tells All,12585,Allan Gurganus
+95108,Life in Double Time: Confessions of an American Drummer,54723,Mike Lankford
+95112,Littlejohn,54725,Howard Owen
+95127,Down These Mean Streets,54738,Piri Thomas
+95141,The Kitchen Boy: A Novel of the Last Tsar,54751,Robert Alexander
+95144,In the Night Kitchen,4489,Maurice Sendak
+95155,Miles Davis - La Autobiografia,54761,Miles Davis
+95159,"Miles Beyond: The Electric Explorations of Miles Davis, 1967-1991",54764,Paul Tingen
+95162,Miles Davis a Biog-OS,44106,Ian Carr
+95186,The Inheritance of Loss,31428,Kiran Desai
+95190,The Undiscovered Country,54785,Samantha Gillison
+95198,Tintin au Congo (Tintin #2),2802356,Hergé
+95199,"Chief of Station, Congo: Fighting the Cold War in a Hot Zone",54791,Larry Devlin
+95224,The Colony: The Harrowing True Story of the Exiles of Molokai,54811,John Tayman
+95226,Colony,6946,Anne Rivers Siddons
+95230,The Colony of Unrequited Dreams,54816,Wayne Johnston
+95231,La ruta,62288,Arturo Barea
+95242,Elephant Song,4043,Wilbur Smith
+95242,Elephant Song,6439107,Αλέκος Μανωλίδης
+95260,Anyone Can Do It,54826,Duncan Bannatyne
+95265,Practice in Christianity,6172,Søren Kierkegaard
+95265,Practice in Christianity,14026,Edna Hatlestad Hong
+95288,Lucky Jim,13078,Kingsley Amis
+95297,One Fat Englishman,13078,Kingsley Amis
+95302,"Girl, 20",13078,Kingsley Amis
+95311,Difficulties with Girls,13078,Kingsley Amis
+95315,Armed Madhouse: From Baghdad to New Orleans--Sordid Secrets and Strange Tales of a White House Gone Wild,34390,Greg Palast
+95321,Memoirs,13078,Kingsley Amis
+95325,The Collector ,10039,John Fowles
+95342,El conde de Montecristo,4785,Alexandre Dumas
+95382,"The Pale Horse (Ariadne Oliver, #5)",123715,Agatha Christie
+95392,The Authority: A Man Called Kev,14965,Garth Ennis
+95392,The Authority: A Man Called Kev,54919,Carlos Ezquerra
+95395,Ancient History,14965,Garth Ennis
+95395,Ancient History,33532,Steve Dillon
+95395,Ancient History,191938,Steve Pugh
+95395,Ancient History,29683,Matt Hollingsworth
+95395,Ancient History,54919,Carlos Ezquerra
+95395,Ancient History,19277527,Richard Case
+95406,"Preacher, Volume 2: Until the End of the World",14965,Garth Ennis
+95406,"Preacher, Volume 2: Until the End of the World",33532,Steve Dillon
+95420,Personal History,54931,Katharine Graham
+95429,Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children,54935,John Wood
+95431,"Preacher, Volume 1: Gone to Texas",14965,Garth Ennis
+95431,"Preacher, Volume 1: Gone to Texas",33532,Steve Dillon
+95431,"Preacher, Volume 1: Gone to Texas",58971,Joe R. Lansdale
+95440,Preacher Special: Cassidy: Blood and Whiskey,14965,Garth Ennis
+95468,1936: Los Mitos De La Guerra Civil,13396142,Enrique Moradiellos García
+95525,El proceso,5223,Franz Kafka
+95532,Kick Me: Adventures in Adolescence,54970,Paul Feig
+95558,Solaris,10991,Stanisław Lem
+95558,Solaris,112054,Joanna Kilmartin
+95558,Solaris,63894,Steve Cox
+95602,Mark of the Lion Trilogy,6492,Francine Rivers
+95617,"A Voice in the Wind (Mark of the Lion, #1)",6492,Francine Rivers
+95617,"A Voice in the Wind (Mark of the Lion, #1)",14018227,Richard Ferrone
+95619,And the Shofar Blew,6492,Francine Rivers
+95622,The Last Sin Eater,6492,Francine Rivers
+95643,The Places in Between,16203,Rory Stewart
+95665,Fierce Invalids Home from Hot Climates,197,Tom Robbins
+95702,"The Tricky Part: A Boy's Story of Sexual Trespass, a Man's Journey to Forgiveness",6967080,Martin  Moran
+95707,Your Best Life Now: 7 Steps to Living at Your Full Potential,55044,Joel Osteen
+95708,The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play,241262,Neil A. Fiore
+95722,La hojarasca,13450,Gabriel García Márquez
+95734,Anger: Wisdom for Cooling the Flames,9074,Thich Nhat Hanh
+95738,The Voyage of the Narwhal,53005,Andrea Barrett
+95739,Servants Of The Map,53005,Andrea Barrett
+95747,The Miracle of Mindfulness: An Introduction to the Practice of Meditation,9074,Thich Nhat Hanh
+95747,The Miracle of Mindfulness: An Introduction to the Practice of Meditation,914664,Mobi Ho
+95753,"Creating True Peace: Ending Violence in Yourself, Your Family, Your Community, and the World",9074,Thich Nhat Hanh
+95770,A Change of Tongue,35816,Antjie Krog
+95784,The Rape of Nanking,17765,Iris Chang
+95785,A Slight Trick of the Mind,55082,Mitch Cullin
+95794,What Pete Ate from A to Z,55084,Maira Kalman
+95798,Swami on Rye: Max in India,55084,Maira Kalman
+95800,"Max in Hollywood, Baby",55084,Maira Kalman
+95801,Opera 101: A Complete Guide to Learning and Loving Opera,55087,Fred Plotkin
+95801,Opera 101: A Complete Guide to Learning and Loving Opera,14771262,Plácido Domingo
+95819,The Poetry of Robert Frost,7715,Robert Frost
+95819,The Poetry of Robert Frost,55099,Edward Connery Lathem
+95822,The House of Hunger,55102,Dambudzo Marechera
+95826,Ways of Dying (Toloki #1),55103,Zakes Mda
+95833,M. Butterfly,55111,David Henry Hwang
+95849,War Without Mercy: Race and Power in the Pacific War,55123,John W. Dower
+95863,The Best American Poetry 2003 (Best American Poetry),34449,Yusef Komunyakaa
+95863,The Best American Poetry 2003 (Best American Poetry),39150,David Lehman
+95870,Thieves of Paradise,34449,Yusef Komunyakaa
+95874,Sleeping With the Dictionary,55140,Harryette Mullen
+95878,Alpha Beta: How 26 Letters Shaped the Western World,31115,John Man
+95887,Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time,22033,Brian Tracy
+95892,Gun Dog: Revolutionary Rapid Training Method,55152,Richard A. Wolters
+95892,Gun Dog: Revolutionary Rapid Training Method,3889168,John W. Randolph
+95894,The Seventh Octave: The Early Writings of Saul Williams,4388,Saul Williams
+95894,The Seventh Octave: The Early Writings of Saul Williams,3889170,Jessica C. Moore
+95894,The Seventh Octave: The Early Writings of Saul Williams,448897,Jessica Care Moore
+95912,"Seventeen Against the Dealer (Tillerman Cycle, #7)",7540,Cynthia Voigt
+95917,Slaves In The Family,54516,Edward Ball
+95928,Poster Child: A Memoir,55176,Emily Rapp
+95950,"Sammy's Hill (Samantha Joyce, #1)",55193,Kristin Gore
+95957,Don't Play in the Sun: One Woman's Journey Through the Color Complex ,55198,Marita Golden
+95960,Foundations of Economics: A Beginner's Companion,405898,Yanis Varoufakis
+95963,"Alice, Let's Eat: Further Adventures of a Happy Eater",55201,Calvin Trillin
+95965,The Tummy Trilogy,55201,Calvin Trillin
+95972,Slightly Out of Focus,55202,Robert Capa
+95972,Slightly Out of Focus,177783,Cornell Capa
+95972,Slightly Out of Focus,142247,Richard Whelan
+95979,The Book on the Bookshelf,10019,Henry Petroski
+95989,Visibility,55213,Boris Starling
+96000,Drown,55215,Junot Díaz
+96037,Malena es un nombre de tango,34291,Almudena Grandes
+96038,"Wake Up, Sir!",2285,Jonathan Ames
+96039,I Love You More Than You Know,2285,Jonathan Ames
+96040,The Extra Man,2285,Jonathan Ames
+96041,What's Not to Love?: The Adventures of a Mildly Perverted Young Writer,2285,Jonathan Ames
+96042,I Pass Like Night,2285,Jonathan Ames
+96043,"My Less Than Secret Life: A Diary, Fiction, Essays",2285,Jonathan Ames
+96052,The Woman Who Fell from the Sky: Poems,267,Joy Harjo
+96058,La pasión turca,36009,Antonio Gala
+96063,The Speed of Dark,10518,Elizabeth Moon
+96078,Instinto de Inez,1367127,Carlos Fuentes
+96098,Un milagro en equilibrio,5764326,Lucía Etxebarria
+96110,Vietnam: A History,55270,Stanley Karnow
+96123,All the President's Men,15445,Carl Bernstein
+96123,All the President's Men,15441,Bob Woodward
+96132,Tinker Tailor Soldier Spy,1411964,John le Carré
+96135,"Amor, curiosidad, prozac y dudas",5764326,Lucía Etxebarria
+96137,Vino e pane,468340,Ignazio Silone
+96158,En busca del unicornio,41812,Juan Eslava Galán
+96159,Keep Your Brain Alive: 83 Neurobic Exercises to Help Prevent Memory Loss and Increase Mental Fitness,14083168,Lawrence C. Katz
+96159,Keep Your Brain Alive: 83 Neurobic Exercises to Help Prevent Memory Loss and Increase Mental Fitness,55297,Manning Rubin
+96166,Háblame de ti,402617,Fernando Delgado
+96195,Utterly Monkey,55323,Nick Laird
+96197,Black Dog of Fate: An American Son Uncovers His Armenian Past,55325,Peter Balakian
+96255,The Autobiography of an Unknown Indian,55346,Nirad C. Chaudhuri
+96255,The Autobiography of an Unknown Indian,68298,Ian Jack
+96278,"Sheepfarmer's Daughter (The Deed of Paksenarrion, #1)",10518,Elizabeth Moon
+96281,"The Deed of Paksenarrion (The Deed of Paksenarrion, #1-3)",10518,Elizabeth Moon
+96319,Las Mitologia Primitiva: Mascaras de Dios,20105,Joseph Campbell
+96333,Telling Tales,55397,Nadine Gordimer
+96351,A Gesture Life,21050,Chang-rae Lee
+96352,Aloft,21050,Chang-rae Lee
+96358,Batman: The Killing Joke,3961,Alan Moore
+96358,Batman: The Killing Joke,55409,Brian Bolland
+96358,Batman: The Killing Joke,61388,Tim Sale
+96362,19 Stars: A Study in Military Character and Leadership,1076418,Edgar F. Puryear Jr.
+96379,American Ruins,55423,Camilo José Vergara
+96408,The Oxford Illustrated History of the First World War,55440,Hew Strachan
+96426,The Red Sea Sharks (Adventures Of Tintin),2802356,Hergé
+96427,Prisoners of the Sun (The Adventures of Tintin),2802356,Hergé
+96428,"Prisoners of the Sun (Tintin, #14)",2802356,Hergé
+96429,"Destination New York (Les Aventures de Jo, Zette et Jocko #2)",2802356,Hergé
+96430,"The Adventures of Tintin, Vol. 2: The Broken Ear / The Black Island / King Ottokar's Sceptre",2802356,Hergé
+96430,"The Adventures of Tintin, Vol. 2: The Broken Ear / The Black Island / King Ottokar's Sceptre",18515480,Michael      Turner
+96430,"The Adventures of Tintin, Vol. 2: The Broken Ear / The Black Island / King Ottokar's Sceptre",913590,Leslie Lonsdale-Cooper
+96430,"The Adventures of Tintin, Vol. 2: The Broken Ear / The Black Island / King Ottokar's Sceptre",5649336,S. Herge
+96431,"Destination Moon (Tintin, #16)",2802356,Hergé
+96431,"Destination Moon (Tintin, #16)",913590,Leslie Lonsdale-Cooper
+96431,"Destination Moon (Tintin, #16)",18515480,Michael      Turner
+96441,The End of Education: Redefining the Value of School,41963,Neil Postman
+96444,"Conscientious Objections: Stirring Up Trouble About Language, Technology and Education",41963,Neil Postman
+96446,How to Watch TV News,41963,Neil Postman
+96446,How to Watch TV News,55460,Steve Powers
+96472,"Sundiver (The Uplift Saga, #1)",14078,David Brin
+96479,Civil Procedure: Examples & Explanations,53825,Joseph W. Glannon
+96482,A Terrible Love of War,18521,James Hillman
+96484,Trained to Kill: Soldiers at War,55469,Theodore Nadelson
+96495,"Mercenaries: Soldiers of Fortune, from Ancient Greece to Today#s Private Military Companies",28220,Michael Lee Lanning
+96505,The Almond,55482,Nedjma
+96505,The Almond,3889421,C. Jane Hunter
+96544,Desperate Characters,43740,Paula Fox
+96548,The One True Ocean,55513,Sarah Beth Martin
+96562,The Thief and the Dogs,5835922,Naguib Mahfouz
+96562,The Thief and the Dogs,5835922,Naguib Mahfouz
+96573,The Unbearable Lightness of Being,6343,Milan Kundera
+96576,The End of the World News: An Entertainment,5735,Anthony Burgess
+96593,The Success Principles: How to Get from Where You Are to Where You Want to Be,35476,Jack Canfield
+96593,The Success Principles: How to Get from Where You Are to Where You Want to Be,55546,Janet Switzer
+96604,Making a Good Script Great,55554,Linda Seger
+96606,National Geographic Photography Field Guide: Secrets to Making Great Pictures,315314,Peter K. Burian
+96606,National Geographic Photography Field Guide: Secrets to Making Great Pictures,55564,Robert Caputo
+96636,Bandits,12940,Elmore Leonard
+96642,Rocket Boys (Coalwood #1),6485158,Homer Hickam
+96647,Scar Tissue,2955,Anthony Kiedis
+96647,Scar Tissue,5777662,Larry Sloman
+96659,Spheres of Justice: A Defense of Pluralism and Equality,55589,Michael Walzer
+96667,Congo,5194,Michael Crichton
+96683,The Good Conscience,1367127,Carlos Fuentes
+96683,The Good Conscience,33562,Sam Hileman
+96702,Broken for You,55630,Stephanie Kallos
+96703,Sing Them Home,55630,Stephanie Kallos
+96719,Daughter's Keeper,55640,Ayelet Waldman
+96727,Reality is What You Can Get Away with,2918,Robert Anton Wilson
+96740,Kylie: La La La,5166,William Baker
+96740,Kylie: La La La,55653,Kylie Minogue
+96779,The Simpsons One Step Beyond Forever: A Complete Guide to Our Favorite Family...Continued Yet Again,30808,Matt Groening
+96782,The Simpsons : A Complete Guide to Our Favorite Family,30808,Matt Groening
+96782,The Simpsons : A Complete Guide to Our Favorite Family,473103,Ray Richmond
+96782,The Simpsons : A Complete Guide to Our Favorite Family,741936,Antonia Coffman
+96786,The Simpsons Forever!: A Complete Guide to Our Favorite Family...Continued,30808,Matt Groening
+96786,The Simpsons Forever!: A Complete Guide to Our Favorite Family...Continued,741935,Scott M. Gimple
+96787,The Simpsons Beyond Forever!: A Complete Guide to Our Favorite Family...Still Continued,30808,Matt Groening
+96787,The Simpsons Beyond Forever!: A Complete Guide to Our Favorite Family...Still Continued,2685,Jesse Leon McCann
+96787,The Simpsons Beyond Forever!: A Complete Guide to Our Favorite Family...Still Continued,3889520,Jesse L. McCann
+96794,Planet Simpson: How a Cartoon Masterpiece Defined a Generation,55684,Chris   Turner
+96794,Planet Simpson: How a Cartoon Masterpiece Defined a Generation,1886,Douglas Coupland
+96809,The Bart Book: Simpsons Library of Wisdom,30808,Matt Groening
+96809,The Bart Book: Simpsons Library of Wisdom,168362,Bill Morrison
+96831,The Ralph Wiggum Book: Simpsons Library of Wisdom,30808,Matt Groening
+96831,The Ralph Wiggum Book: Simpsons Library of Wisdom,168362,Bill Morrison
+96831,The Ralph Wiggum Book: Simpsons Library of Wisdom,654732,Mary Trainor
+96831,The Ralph Wiggum Book: Simpsons Library of Wisdom,3148577,James W. Bates
+96831,The Ralph Wiggum Book: Simpsons Library of Wisdom,505042,Tony DiGerolamo
+96831,The Ralph Wiggum Book: Simpsons Library of Wisdom,741935,Scott M. Gimple
+96831,The Ralph Wiggum Book: Simpsons Library of Wisdom,10310,Tom Peyer
+96831,The Ralph Wiggum Book: Simpsons Library of Wisdom,61383,Ty Templeton
+96831,The Ralph Wiggum Book: Simpsons Library of Wisdom,3439025,Patric M. Verrone
+96831,The Ralph Wiggum Book: Simpsons Library of Wisdom,3439026,Nathan Hamill
+96831,The Ralph Wiggum Book: Simpsons Library of Wisdom,3439027,Jessee L. McCann
+96884,The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom,55727,Jonathan Haidt
+96885,Happiness: A Guide to Developing Life's Most Important Skill,55728,Matthieu Ricard
+96885,Happiness: A Guide to Developing Life's Most Important Skill,392298,Jesse Browner
+96885,Happiness: A Guide to Developing Life's Most Important Skill,829,Daniel Goleman
+96908,Johnny the Homicidal Maniac: Director's Cut,55743,Jhonen Vásquez
+96995,Le plaisir du texte. Précédé de : Variations sur l'écriture,13084,Roland Barthes
+96995,Le plaisir du texte. Précédé de : Variations sur l'écriture,55783,Carlo Ossola
+96999,Courage: The Joy of Living Dangerously,2856822,Osho
+97010,Awareness: The Key to Living in Balance,2856822,Osho
+97015,Freedom: The Courage to Be Yourself,2856822,Osho
+97078,Atheism: The Case Against God,55823,George H. Smith
+97084,Apathy and Other Small Victories,55824,Paul Neilan
+97310,Die verlorene Ehre der Katharina Blum,39326,Heinrich Böll
+97352,The Plot Against America,463,Philip Roth
+97354,The Exchange and Other Stories,13603989,Yury Trifonov
+97354,The Exchange and Other Stories,1223177,Byron Lindsey
+97354,The Exchange and Other Stories,3889713,Helen P. Burlingame
+97354,The Exchange and Other Stories,3889714,Jim Somers
+97354,The Exchange and Other Stories,132512,Ronald Meyer
+97354,The Exchange and Other Stories,40254,Ellendea Proffer
+97366,Peter the Great (in 2 Vol),1255971,Aleksey Nikolayevich Tolstoy
+97378,Exquisite Pain,30183,Sophie Calle
+97378,Exquisite Pain,547185,Charles Penwarden
+97382,The Complete Prose Tales,16070,Alexander Pushkin
+97382,The Complete Prose Tales,521621,Gillon R. Aitken
+97390,Горе от ума,14553305,Alexander Griboyedov
+97390,Горе от ума,3136479,Betsy Hulick
+97390,Горе от ума,14778569,Александр Сергеевич Грибоедов
+97393,The Poems of François Villon,55934,François Villon
+97393,The Poems of François Villon,11368,Galway Kinnell
+97403,Natasha and Other Stories,55940,David Bezmozgis
+97409,Native Guard,55944,Natasha Trethewey
+97415,"Four Tragedies and Octavia (Thyestes, Phaedra, Troades, Oedipus, Octavia)",4918776,Seneca
+97415,"Four Tragedies and Octavia (Thyestes, Phaedra, Troades, Oedipus, Octavia)",71347,E.F. Watling
+97425,Ложится мгла на старые ступени. Роман-идиллия,2747053,Александр Чудаков
+97453,On This Day,52066,Nathaniel Bellows
+97454,Kings of Albion,55981,Julian Rathbone
+97461,"Notes on Prosody; From the Commentary to the Author's Translation of Pushkin's Eugene Onegin (Bollingen Series, 72)",5152,Vladimir Nabokov
+97468,Great German Short Stories,10235,Stephen Spender
+97473,Special Topics in Calamity Physics,2362,Marisha Pessl
+97474,Here Kitty Kitty,55994,Jardine Libaire
+97476,Silent Thunder: In the Presence of Elephants,55996,Katy Payne
+97486,The Crow,56002,James O'Barr
+97499,"Punk Is a Four-Letter Word: Columns, Articles and Essays 1991-2002",56015,Ben Weasel
+97525,The Crow:  Shattered Lives & Broken Dreams,56002,James O'Barr
+97525,The Crow:  Shattered Lives & Broken Dreams,5621921,Edward E. Kramer
+97531,The Road to McCarthy: Around the World in Search of Ireland,7943,Pete McCarthy
+97553,Crow: From the Life and Songs of the Crow (Faber Library),996,Ted Hughes
+97569,"The Crow Trap (Vera Stanhope, #1)",56067,Ann Cleeves
+97616,The Crow: Temple of Night,81037,S.P. Somtow
+97616,The Crow: Temple of Night,56002,James O'Barr
+97617,Evil Beyond Reach (The Crow  - Image Comics #2),12733,Jon J. Muth
+97617,Evil Beyond Reach (The Crow  - Image Comics #2),18834,Paul Lee
+97620,Tobacco: A Cultural History Of How An Exotic Plant Seduced Civilization,43052,Iain Gately
+97632,The Debutante Divorcee,4649,Plum Sykes
+97641,Nice Girls Don't Get the Corner Office: 101 Unconscious Mistakes Women Make That Sabotage Their Careers,4469009,Lois P. Frankel
+97652,The Gospel According to Starbucks: Living with a Grande Passion,24720,Leonard Sweet
+97673,The Crow: Hellbound,5217055,A.A. Attanasio
+97673,The Crow: Hellbound,56002,James O'Barr
+97757,The Making of Kind of Blue: Miles Davis and His Masterpiece,54768,Eric Nisenson
+97758,Kind of Blue: The Making of the Miles Davis Masterpiece,56201,Ashley Kahn
+97765,Windows Vista Inside Out,56209,Ed Bott
+97765,Windows Vista Inside Out,56207,Carl Siechert
+97765,Windows Vista Inside Out,56208,Craig Stinson
+97774,Nobody's Fool,7844,Richard Russo
+97782,Then We Came to the End,56223,Joshua Ferris
+97793,Disciplines of the Spirit,56230,Howard Thurman
+97875,"44 Scotland Street (44 Scotland Street, #1)",4738,Alexander McCall Smith
+97875,"44 Scotland Street (44 Scotland Street, #1)",510153,Iain McIntosh
+97884,"Friends, Lovers, Chocolate (Isabel Dalhousie, #2)",4738,Alexander McCall Smith
+97898,The Full Cupboard of Life (No. 1 Ladies' Detective Agency #5),4738,Alexander McCall Smith
+97905,The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't,56271,Robert I. Sutton
+97920,An Ordinary Man: An Autobiography,56281,Paul Rusesabagina
+97920,An Ordinary Man: An Autobiography,46075,Tom Zoellner
+97943,The Artist's Way Workbook,13229,Julia Cameron
+97950,Mishkin and Morris' Law in Courts,351982,Andrew P. Morriss
+97950,Mishkin and Morris' Law in Courts,82496,Clarence Morris
+97961,"Archangel (Samaria, #1)",28544,Sharon Shinn
+97964,"Angelica (Samaria, #4)",28544,Sharon Shinn
+98001,"The Cry from Beyond (ElfQuest Reader's Collection, #7)",56328,Wendy Pini
+98001,"The Cry from Beyond (ElfQuest Reader's Collection, #7)",56327,Richard Pini
+98046,"Gridlinked (Agent Cormac #1, Polity Universe #3)",56353,Neal Asher
+98047,D.V.,24293,Diana Vreeland
+98047,D.V.,6474,George Plimpton
+98047,D.V.,24292,Christopher Hemphill
+98048,The Passion of Artemisia,11075,Susan Vreeland
+98049,Luncheon of the Boating Party,11075,Susan Vreeland
+98077,My Big Fat Queer Life: The Best of Michael Thomas Ford,56370,Michael Thomas Ford
+98085,Alec Baldwin Doesn't Love Me & Other Trials from My Queer Life,56370,Michael Thomas Ford
+98099,That's Mr. Faggot to You: Further Trials from My Queer Life,56370,Michael Thomas Ford
+98101,It's Not Mean If It's True: More Trials from My Queer Life,56370,Michael Thomas Ford
+98110,S.,6878,John Updike

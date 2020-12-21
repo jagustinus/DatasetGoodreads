@@ -1,0 +1,759 @@
+book_id,book_title,author_id,author_name
+21947015,Juego de espejos,17350,Andrea Camilleri
+21947015,Juego de espejos,6560140,Teresa Clavel Lledó
+21947191,"Filthy Beautiful Lies (Filthy Beautiful Lies, #1)",6473923,Kendall Ryan
+21947925,A Bedside Book of Early Sherlockian Parodies and Pastiches,1190097,Charles Press
+21950079,Julius Caesar (Folger Shakespeare Library),947,William Shakespeare
+21950366,مرد بالشی,77295,Martin McDonagh
+21950366,مرد بالشی,8156982,زهرا جواهری
+21953315,El castillo,5223,Franz Kafka
+21954245,La sonata del silencio,3313685,Paloma Sánchez-Garnica
+21954673,La sociedad del cansancio,970747,Byung-Chul Han
+21954673,La sociedad del cansancio,8158509,Arantzazu Saratxaga Arregi
+21955801,Born in the Bronx,551084,Johan Kugelberg
+21965059,The Bear Ate Your Sandwich,2445028,Julia Sarcone-Roach
+21965107,The Children Act,2408,Ian McEwan
+21975753,Campaign Inc.: How Leadership and Organization Propelled Barack Obama to the White House,8166773,Henry F. De Sio. Jr.
+21975813,I Need a New Butt!,2773042,Dawn McMillan
+21975813,I Need a New Butt!,2748374,Ross Kinnaird
+21979832,"The Girl from Everywhere (The Girl from Everywhere, #1)",8167946,Heidi Heilig
+21991168,"Superman/Batman, Volume 2",32594,Jeph Loeb
+21991168,"Superman/Batman, Volume 2",7337,Carlos Pacheco
+21991168,"Superman/Batman, Volume 2",61853,Ed McGuinness
+22007410,The Lathe of Heaven,874602,Ursula K. Le Guin
+22008446,راز قطعنامه,8177659,کامران غضنفری
+22009422,Death on the Cherwell,7014723,Mavis Doriel Hay
+22009422,Death on the Cherwell,11160,Stephen Booth
+22010718,The Peripheral,9226,William Gibson
+22015206,"X-Men: God Loves, Man Kills",15091,Chris Claremont
+22015206,"X-Men: God Loves, Man Kills",13810624,Brent Anderson
+22015206,"X-Men: God Loves, Man Kills",61964,Steve Oliff
+22015206,"X-Men: God Loves, Man Kills",166637,Tom Orzechowski
+22015767,The Heart's Voice,57184,Arlene James
+22018084,Dark History of the Tudors,8180820,Judith John
+22018739,Wool,54927,Jimmy Palmiotti
+22018739,Wool,61911,Justin Gray
+22018739,Wool,3064305,Hugh Howey
+22018739,Wool,4587052,Jimmy Broxton
+22019278,"Los pacientes del doctor García (Episodios de una guerra interminable, #4)",34291,Almudena Grandes
+22019282,"La madre de Frankenstein (Episodios de una guerra interminable, #5)",34291,Almudena Grandes
+22021137,Billionaire's Secret (The Chatsfield),621880,Chantelle Shaw
+22021346,"Dair Devil (Roxton Family Saga, #3)",4416532,Lucinda Brant
+22022116,"George Boleyn: Tudor Poet, Courtier and Diplomat",5754526,Claire Ridgway
+22022116,"George Boleyn: Tudor Poet, Courtier and Diplomat",307188,Clare Cherry
+22023770,سخن‌های دیرینه,459233,جلال خالقی مطلق
+22023917,Unexpected Stories,29535,Octavia E. Butler
+22024251,Charlie Brown: POW!: A Peanuts Collection (amp! Comics for Kids),209672,Charles M. Schulz
+22024929,"Never Courted, Suddenly Wed (Scandalous Seasons, #2)",5297089,Christi Caldwell
+22025434,دروغ سوم,134770,Ágota Kristóf
+22025434,دروغ سوم,4188404,اصغر نوری
+22027459,"The Atlantis World (The Origin Mystery, #3)",3087199,A.G. Riddle
+22029861,Sworn To Defiance (Courtlight #5),6517970,Terah Edun
+22032597,داستان ملال‌انگیز,5031025,Anton Chekhov
+22032597,داستان ملال‌انگیز,5100925,آبتین گلکار
+22034346,The Storyteller,7128,Jodi Picoult
+22034685,The King In Yellow,57739,Robert W. Chambers
+22034703,Una madre,2903,Alejandro Palomas
+22034743,My Struggle: Book 3,3020048,Karl Ove Knausgård
+22034743,My Struggle: Book 3,2737734,Don Bartlett
+22038196,"Seaside Dreams (Love in Bloom: Seaside Summers, #1)",3023973,Melissa Foster
+22040598,The Sculptor,33907,Scott McCloud
+22044026,Brave New World,3487,Aldous Huxley
+22045253,Remember Me This Way,416529,Sabine Durrant
+22045591,"Desires of a Baron (Gentlemen of Honor, #2)",4586227,Rose Gordon
+22046048,Pó de Parede,1690779,Carol Bensimon
+22047640,"Zero to One: Notes on Startups, or How to Build the Future",8474721,Peter Thiel
+22047640,"Zero to One: Notes on Startups, or How to Build the Future",8474323,Blake  Masters
+22049076,How to Start a Fire,74189,Lisa Lutz
+22050068,White Teeth,2522,Zadie Smith
+22050093,"The Slow Regard of Silent Things (The Kingkiller Chronicle, #2.5)",108424,Patrick Rothfuss
+22051636,Os Mercadores Da Noite,868928,Ivan Sant'Anna
+22051911,"Not That Kind of Girl: A Young Woman Tells You What She's ""Learned""",5877493,Lena Dunham
+22053097,J.D. Salinger: The Escape Artist,1217,Thomas Beller
+22053869,El Círculo (Libro Completo),5609032,Mario Escobar
+22055262,"A Darker Shade of Magic (Shades of Magic, #1)",7168230,V.E. Schwab
+22055280,"The Providence of Fire (Chronicle of the Unhewn Throne, #2)",7086094,Brian Staveley
+22055283,"Half the World (Shattered Sea, #2)",276660,Joe Abercrombie
+22057035,The Italian Girl,4512899,Lucinda Riley
+22062216,The Giver Quartet Omnibus,2493,Lois Lowry
+22062531,O Diabo Mesquinho,94099,Fyodor Sologub
+22063607,"The Innovators: How a Group of Inventors, Hackers, Geniuses, and Geeks Created the Digital Revolution",7111,Walter Isaacson
+22066307,Keeping Katerina,7101854,Simone Beaudelaire
+22070682,Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive,191925,Daniel J. Siegel
+22070682,Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive,14250,Mary Hartzell
+22072567,Un millón de gotas,5317974,Víctor del Árbol
+22077602,Oracle Night,296961,Paul Auster
+22078240,Saga: Book One,24514,Brian K. Vaughan
+22078240,Saga: Book One,304633,Fiona Staples
+22078752,"Der Wispernde Schädel (Lockwood & Co., #2)",33467,Jonathan Stroud
+22078752,"Der Wispernde Schädel (Lockwood & Co., #2)",795988,Katharina Orgaß
+22078752,"Der Wispernde Schädel (Lockwood & Co., #2)",539739,Gerald Jung
+22085024,The Hard Thing About Hard Things by Ben Horowitz - A 30-minute Summary & Analysis: Building a Business When There Are No Easy Answers,7417162,Instaread Summaries
+22092453,خانه ی هزار تو,4260,Diana Wynne Jones
+22092453,خانه ی هزار تو,8152298,شراره صدیق
+22098550,Pax,92198,Sara Pennypacker
+22098550,Pax,3118934,Jon Klassen
+22104324,Lucy Stone: An Unapologetic Life,488220,Sally G. McMillen
+22113897,William Blake: A Biography,7014283,G.K. Chesterton
+22113897,William Blake: A Biography,8209303,Antonio Rivero Tavarillo
+22113897,William Blake: A Biography,8209304,Victoria León
+22120653,Nine Inches,15907,Tom Perrotta
+22125258,Get in Trouble,24902,Kelly Link
+22129114,The Virgin Way: Everything I Know About Leadership,115943,Richard Branson
+22130605,Endurance: Shackleton's Incredible Voyage,29034,Alfred Lansing
+22141040,"Asedio y tormenta (Grisha, #2)",4575289,Leigh Bardugo
+22141040,"Asedio y tormenta (Grisha, #2)",7044503,Mike Lightwood
+22156872,Jesus on Trial: A Lawyer Affirms the Truth of the Gospel,23061,David Limbaugh
+22174793,Cuernavaca,8115933,Richard W. Perhacs
+22180825,The Heal Your Gut Cookbook: Nutrient-Dense Recipes for Intestinal Health Using the GAPS Diet,7164048,Hilary Boynton
+22180825,The Heal Your Gut Cookbook: Nutrient-Dense Recipes for Intestinal Health Using the GAPS Diet,7164049,Mary Brackett
+22180825,The Heal Your Gut Cookbook: Nutrient-Dense Recipes for Intestinal Health Using the GAPS Diet,493631,Natasha Campbell-McBride
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,410598,Ann VanderMeer
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,33919,Jeff VanderMeer
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,288416,L. Timmel Duchamp
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,26359,Leonora Carrington
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,162930,Kit Reed
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,588356,Nnedi Okorafor
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,108548,Eleanor Arnason
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,125883,Kelley Eskridge
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,111214,Angélica Gorodischer
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,27528,Nalo Hopkinson
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,672375,Leena Krohn
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,9860453,James Tiptree Jr.
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,19433071,Rose Lemberg
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,29535,Octavia E. Butler
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,248101,Anne Richter
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,945430,Kelly Barnhill
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,87495,Hiromi Goto
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,27500,Angela Carter
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,15188,Pat Murphy
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,52310,Joanna Russ
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,377417,Vandana Singh
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,78024,Susan Palwick
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,54462,Carol Emshwiller
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,1307441,Eileen Gunn
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,8694,Tanith Lee
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,4394928,Karin Tidbeck
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,874602,Ursula K. Le Guin
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,53176,Pamela Sargent
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,2919603,Rachel Swirsky
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,338705,Catherynne M. Valente
+22181319,Sisters of the Revolution: A Feminist Speculative Fiction Anthology,20431922,Élisabeth Vonaburg
+22206752,The Autoimmune Solution: Prevent and Reverse the Full Spectrum of Inflammatory Symptoms and Diseases,8240937,Amy  Myers
+22208532,The Man Who Couldn't Stop: OCD and the True Story of a Life Lost in Thought,8144872,David   Adam
+22213029,The Gentleman Bat,8242671,Abraham Schroeder
+22213029,The Gentleman Bat,8242672,Piotr Parda
+22219680,"Monster Manual (Dungeons & Dragons, 5th Edition)",20512,Mike Mearls
+22219680,"Monster Manual (Dungeons & Dragons, 5th Edition)",37059,Wizards of the Coast
+22219680,"Monster Manual (Dungeons & Dragons, 5th Edition)",331596,Jeremy Crawford
+22219680,"Monster Manual (Dungeons & Dragons, 5th Edition)",26797,Robert J. Schwalb
+22219680,"Monster Manual (Dungeons & Dragons, 5th Edition)",26798,Matt Sernett
+22219680,"Monster Manual (Dungeons & Dragons, 5th Edition)",4087657,Steve Townshend
+22222528,"Straight to Hell: True Tales of Deviance, Debauchery, and Billion-Dollar Deals",70796,John LeFevre
+22231627,Brain Rules for Baby: How to Raise a Smart and Happy Child from Zero to Five,341696,John Medina
+22232622,Central Asia (Lonely Planet Guide),54890,Bradley Mayhew
+22232622,Central Asia (Lonely Planet Guide),6980602,Lonely Planet
+22232622,Central Asia (Lonely Planet Guide),7877,Mark Elliott
+22232622,Central Asia (Lonely Planet Guide),22830,Tom Masters
+22232622,Central Asia (Lonely Planet Guide),11823,John Noble
+22237141,The Blizzard,39839,Vladimir Sorokin
+22237141,The Blizzard,296516,Jamey Gambrell
+22237161,The Sellout,44076,Paul Beatty
+22237290,"Hawkeye, Volume 4: Rio Bravo",61382,Matt Fraction
+22237290,"Hawkeye, Volume 4: Rio Bravo",92897,Chris Eliopoulos
+22237290,"Hawkeye, Volume 4: Rio Bravo",61385,David Aja
+22237290,"Hawkeye, Volume 4: Rio Bravo",3193030,Jordie Bellaire
+22237290,"Hawkeye, Volume 4: Rio Bravo",286833,Francesco Francavilla
+22237290,"Hawkeye, Volume 4: Rio Bravo",29683,Matt Hollingsworth
+22237973,EL ESCORPIÓN,168690,James Butler
+22238405,The Cartoon Introduction to Philosophy,14061504,Michael F. Patton
+22238405,The Cartoon Introduction to Philosophy,2400,Kevin Cannon
+22245475,Across a Green Ocean,8364310,Wendy    Lee
+22245552,Chasing the Scream: The First and Last Days of the War on Drugs,321601,Johann Hari
+22246669,Gus Was a Friendly Ghost,158837,Jane Thayer
+22246669,Gus Was a Friendly Ghost,230070,Seymour Fleishman
+22249640,"Peace Talks (The Dresden Files, #16)",10746,Jim Butcher
+22249664,"The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money",456829,Ron Lieber
+22249695,"Masterminds (Masterminds, #1)",2130,Gordon Korman
+22253742,The Unfortunate Importance of Beauty,177214,Amanda Filipacchi
+22253764,Family Life,92333,Akhil   Sharma
+22259514,The United States of Murder Inc. Volume 1: Truth,12424,Brian Michael Bendis
+22259514,The United States of Murder Inc. Volume 1: Truth,9933,Michael Avon Oeming
+22282514,Alvar Aalto: Second Nature,412899,Mateo Kries
+22282514,Alvar Aalto: Second Nature,1102083,Jochen Eisenbrand
+22282514,Alvar Aalto: Second Nature,122336,Alvar Aalto
+22283948,Degenerado,5620383,Chloé Cruchaudet
+22290962,The Moving Toyshop,54703,Edmund Crispin
+22291348,اسکلیگ و بچه‌ها (Skellig #1),13652,David Almond
+22291348,اسکلیگ و بچه‌ها (Skellig #1),3075358,نسرین وکیلی
+22292486,X,363368,Ilyasah Shabazz
+22292486,X,1095066,Kekla Magoon
+22295304,"Shadowshaper (Shadowshaper, #1)",5137530,Daniel José Older
+22299763,"Crooked Kingdom (Six of Crows, #2)",4575289,Leigh Bardugo
+22300078,The Andy Cohen Diaries: A Deep Look at a Shallow Year,140108,Andy Cohen
+22301557,Der Berg,2687,Dan Simmons
+22306105,Pro Cycling on $10 a Day: From Fat Kid to Euro Pro,7341540,Phil Gaimon
+22306482,Evil Librarian,72545,Michelle Knudsen
+22306757,Teaching from Rest: A Homeschooler's Guide to Unshakable Peace,2415741,Sarah Mackenzie
+22306757,Teaching from Rest: A Homeschooler's Guide to Unshakable Peace,327715,Christopher Perrin
+22311387,"The Stonecutter (Patrik Hedström, #3)",72887,Camilla Läckberg
+22314178,Touch,7210024,Claire North
+22318350,The Life of Saul Bellow: To Fame and Fortune 1915-1964,54869,Zachary Leader
+22318356,The Goddess Pose,84561,Michelle Goldberg
+22318399,A Touch of Stardust,5052587,Kate Alcott
+22318476,"Boom Town: The Fantastical Saga of Oklahoma City, Its Chaotic Founding, Its Apocalyptic Weather, Its Purloined Basketball Team, and the Dream of Becoming a World-class Metropolis",6577154,Sam Anderson
+22318513,A Doubter's Almanac,50743,Ethan Canin
+22318578,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,5589647,Marie Kondō
+22318578,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,1086478,Cathy Hirano
+22318585,"Avatar: The Last Airbender - The Rift (Avatar: The Last Airbender, #3)",68959,Gene Luen Yang
+22318585,"Avatar: The Last Airbender - The Rift (Avatar: The Last Airbender, #3)",536204,Gurihiru
+22318585,"Avatar: The Last Airbender - The Rift (Avatar: The Last Airbender, #3)",90808,Michael Dante DiMartino
+22318585,"Avatar: The Last Airbender - The Rift (Avatar: The Last Airbender, #3)",1160825,Bryan Konietzko
+22319275,"Yellow Crocus (Freedman/Johnson, #1)",4530391,Laila Ibrahim
+22322630,True Tarot Card Meanings: Learn the Secrets of Professional Readers!,1660024,Andrea Green
+22324525,حاجی آقا,13607545,Sadegh Hedayat
+22327905,La red de Caronte,7149685,Gemma Herrero Virto
+22328546,"Red Queen (Red Queen, #1)",7074943,Victoria Aveyard
+22332850,Hellboy Animated: The Yearning,10182,Mike Mignola
+22332850,Hellboy Animated: The Yearning,59164,Jim Pascoe
+22332850,Hellboy Animated: The Yearning,385052,Ben Stenbeck
+22348611,The Fracking King,5880194,James Browning
+22351144,Secrets of the Waite-Smith Tarot: The True Story of the World's Most Popular Tarot,4446022,Marcus Katz
+22351144,Secrets of the Waite-Smith Tarot: The True Story of the World's Most Popular Tarot,4446023,Tali Goodwin
+22357838,The Door,5168929,Magda Szabó
+22357838,The Door,3848796,Len Rix
+22357838,The Door,68992,Ali Smith
+22358438,"Jupiter's Legacy, Vol. 1",12736,Mark Millar
+22358438,"Jupiter's Legacy, Vol. 1",21709,Frank Quitely
+22367526,My Sunshine Away,3401307,M.O. Walsh
+22371231,Crime and Punishment,3137322,Fyodor Dostoyevsky
+22371231,Crime and Punishment,3357,Richard Pevear
+22371231,Crime and Punishment,3358,Larissa Volokhonsky
+22377589,"Sleep Smarter: 21 Proven Tips to Sleep Your Way To a Better Body, Better Health and Bigger Success",8284103,Shawn Stevenson
+22384327,How to Write Dazzling Dialogue: The Fastest Way to Improve Any Manuscript,11957,James Scott Bell
+22389109,Ich bin Malala,7064545,Malala Yousafzai
+22389109,Ich bin Malala,241896,Christina Lamb
+22389109,Ich bin Malala,6879787,Sabine Längsfeld
+22389109,Ich bin Malala,306775,Margarete Längsfeld
+22389109,Ich bin Malala,1052319,Elisabeth Liebl
+22396591,The Dead House (The Dead House #1),8288991,Dawn Kurtagich
+22399155,"Literature from the 'Axis of Evil': Writing from Iran, Iraq, North Korea, and Other Enemy Nations",3890182,Alane Mason
+22399155,"Literature from the 'Axis of Evil': Writing from Iran, Iraq, North Korea, and Other Enemy Nations",492778,Dedi Felman
+22399155,"Literature from the 'Axis of Evil': Writing from Iran, Iraq, North Korea, and Other Enemy Nations",56582,Samantha Schnee
+22402362,"The Spell Realm (The Sorcery Code, #2)",7210511,Dima Zales
+22402362,"The Spell Realm (The Sorcery Code, #2)",6550220,Anna Zaires
+22402972,Fish in a Tree,4575353,Lynda Mullaly Hunt
+22405654,The Dream of My Return,609209,Horacio Castellanos Moya
+22405654,The Dream of My Return,124450,Katherine Silver
+22433390,The Odds of Lightning,2313312,Jocelyn Davies
+22446829,His Road Home,7440825,Anna Richland
+22449929,"Apex (Nexus, #3)",160069,Ramez Naam
+22450859,The Boston Girl,626222,Anita Diamant
+22453035,"Finders Keepers (Bill Hodges Trilogy, #2)",3389,Stephen King
+22453727,Anna and the Swallow Man,8300713,Gavriel Savit
+22453777,Hour of the Bees,8307508,Lindsay Eagar
+22456847,World Order,28442,Henry Kissinger
+22458099,Cuando era puertorriqueña: When I was Puerto Rican,14294,Esmeralda Santiago
+22461335,مرد صد ساله‌ای که از پنجره فرار کرد و ناپدید شد,3222554,Jonas Jonasson
+22461335,مرد صد ساله‌ای که از پنجره فرار کرد و ناپدید شد,3093814,فرزانه طاهری
+22462257,Descent,476225,Tim Johnston
+22462576,Lord Havelock's List (Harlequin Historical),980713,Annie Burrows
+22465597,Vanishing Girls,2936493,Lauren Oliver
+22467404,The Other Side of Midnight,4981568,Simone St. James
+22470734,The Shop on Main (Comfort Crossing #1),8305786,Kay Correll
+22473458,"After We Collided (After, #2)",3927354,Anna Todd
+22487952,"March: Book Two (March, #2)",6429079,John             Lewis
+22487952,"March: Book Two (March, #2)",6928034,Andrew Aydin
+22487952,"March: Book Two (March, #2)",51924,Nate Powell
+22494250,The Selma Voting Rights Struggle & the March to Montgomery,2782053,Bruce Hartford
+22501028,A Spool of Blue Thread,457,Anne Tyler
+22509955,"The Terrible Two (The Terrible Two, #1)",2855221,Mac Barnett
+22509955,"The Terrible Two (The Terrible Two, #1)",1977410,Jory John
+22509955,"The Terrible Two (The Terrible Two, #1)",3337946,Kevin Cornell
+22521772,"All the Birds, Singing",843712,Evie Wyld
+22522202,"Until Friday Night (The Field Party, #1)",4872191,Abbi Glines
+22522686,"Fables, Vol. 21: Happily Ever After",12444,Bill Willingham
+22522686,"Fables, Vol. 21: Happily Ever After",55811,Mark Buckingham
+22522686,"Fables, Vol. 21: Happily Ever After",74339,Steve Leialoha
+22522805,The Buried Giant,4280,Kazuo Ishiguro
+22522808,Trigger Warning: Short Fictions and Disturbances,1221698,Neil Gaiman
+22529381,Dreamland: The True Tale of America's Opiate Epidemic,416265,Sam Quinones
+22529431,Lose Weight Here: The Metabolic Secret to Target Stubborn Fat and Fix Your Problem Areas,3070498,Jade Teta
+22529431,Lose Weight Here: The Metabolic Secret to Target Stubborn Fat and Fix Your Problem Areas,3070499,Keoni Teta
+22533453,El jardín a la luz de la luna,2906147,Corina Bomann
+22533453,El jardín a la luz de la luna,7794476,Valentín Ugarte
+22535480,"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",761595,Ashlee Vance
+22536594,"Schlussakkord für einen Mord (Flavia de Luce, #5)",1074866,Alan Bradley
+22537675,Irritable Hearts: A PTSD Love Story,3046464,Mac McClelland
+22540125,"After We Collided (After, #2)",3927354,Anna Todd
+22540600,"Unlocking Potential: 7 Coaching Skills That Transform Individuals, Teams, and Organizations",15379,Michael Simpson
+22543484,Magic School Bus Presents: The Human Body,137664,Tom Jackson
+22543484,Magic School Bus Presents: The Human Body,33362,Bruce Degen
+22543663,"Seaside Sunsets (Love in Bloom: Seaside Summers, #3)",3023973,Melissa Foster
+22544024,Secrets of a Charmed Life,60390,Susan Meissner
+22544401,"Tracker (Foreigner, #16)",989968,C.J. Cherryh
+22544764,Uprooted,8730,Naomi Novik
+22544926,Spirits Abroad,4632661,Zen Cho
+22548097,"The Geography of Madness: Penis Thieves, Voodoo Death, and the Search for the Meaning of the World's Strangest Syndromes",4979322,Frank Bures
+22548137,Murder on the Champ de Mars (Aimee Leduc Investigations #15),22663,Cara Black
+22549960,گودی,3670,Jhumpa Lahiri
+22549960,گودی,3096425,امیرمهدی حقیقت
+22551730,Dead Wake: The Last Crossing of the Lusitania,5869,Erik Larson
+22552026,Long Way Down,1229281,Jason Reynolds
+22554204,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes, Vol. 1)",6887314,Noelle Stevenson
+22554204,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes, Vol. 1)",8202497,Grace Ellis
+22554204,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes, Vol. 1)",6928546,Shannon Watters
+22554204,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes, Vol. 1)",17149574,Brooklyn Allen
+22554204,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes, Vol. 1)",6851809,Maarta Laiho
+22554204,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes, Vol. 1)",8337554,Aubrey Aiese
+22555261,Viajes con Charley en busca de Estados Unidos,585,John Steinbeck
+22555261,Viajes con Charley en busca de Estados Unidos,6524106,José Manuel Álvarez Flórez
+22555800,Tropic of Cancer,147,Henry Miller
+22557272,The Girl on the Train,1063732,Paula Hawkins
+22557520,"After (After, #1)",3927354,Anna Todd
+22561404,انگشت جادویی,4273,Roald Dahl
+22561404,انگشت جادویی,2110944,گیتا گرگانی
+22566044,"Fluency (Confluence, #1)",7246594,Jennifer Foehner Wells
+22571015,Something Rich and Strange: Selected Stories,24820,Ron Rash
+22571259,The Honest Truth,7544723,Dan Gemeinhart
+22571506,The Power of Imagination: The Neville Goddard Treasury,53919,Neville Goddard
+22571540,The Stranger,24689,Harlan Coben
+22571542,I Am Radar,2685732,Reif Larsen
+22571552,So You've Been Publicly Shamed,1218,Jon Ronson
+22571693,"The Shadow Puppet (Maigret, #13)",9693,Georges Simenon
+22571693,"The Shadow Puppet (Maigret, #13)",7619,Ros Schwartz
+22573850,Getting Things Done: The Art of Stress-Free Productivity,1058,David    Allen
+22581405,"El gran frío (Martí, #2)",1194822,Rosa Ribas
+22581405,"El gran frío (Martí, #2)",3055908,Sabine Hofmann
+22587402,"Duke of Darkness (Three Regency Rogues, #2)",8131174,Anabelle Bryant
+22588378,"Captives (Breakers, #6)",4121443,Edward W. Robertson
+22595534,Startup Growth Engines: Case Studies of How Today's Most Successful Startups Unlock Extraordinary Growth,2966581,Sean  Ellis
+22595534,Startup Growth Engines: Case Studies of How Today's Most Successful Startups Unlock Extraordinary Growth,4873608,Morgan Brown
+22598214,هوش هیجانی,8341023,دانیل گلدمن
+22598669,آذر، شهدخت، پرويز و ديگران,195048,مرجان شیرمحمدی
+22602324,The Lake House,615274,Kate Morton
+22603440,"Unclaimed (Turner, #2)",2906892,Courtney Milan
+22605134,Tracker,66157,Lloyd Fonvielle
+22605536,Nunca me abandones,4280,Kazuo Ishiguro
+22609177,"The Woods, Vol. 2: The Swarm",6852949,James Tynion IV
+22609177,"The Woods, Vol. 2: The Swarm",7072250,Michael Dialynas
+22609177,"The Woods, Vol. 2: The Swarm",14180029,Josan Gonzalez
+22609177,"The Woods, Vol. 2: The Swarm",2921346,Ed Dukeshire
+22609257,"Palace of Treason (Red Sparrow Trilogy, #2)",6903512,Jason  Matthews
+22609310,Confess,5430144,Colleen Hoover
+22609317,Luckiest Girl Alive,6464799,Jessica Knoll
+22609341,Come as You Are: The Surprising New Science that Will Transform Your Sex Life,3517051,Emily Nagoski
+22609391,The Wright Brothers,6281688,David McCullough
+22609406,The Fifth Gospel,11111,Ian Caldwell
+22609419,"Cold Betrayal (Ali Reynolds, #10)",3453636,J.A. Jance
+22609427,More than Happy: The Wisdom of Amish Parenting,3496532,Serena B. Miller
+22609427,More than Happy: The Wisdom of Amish Parenting,3282261,Paul V. Stutzman
+22609485,The Soul of an Octopus: A Surprising Exploration Into the Wonder of Consciousness,13364,Sy Montgomery
+22609522,"Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice",8344235,Bill Browder
+22612481,Paingod: And Other Delusions,7415,Harlan Ellison
+22612637,"Broken Open (The Hurley Boys, #2)",226816,Lauren Dane
+22613361,The Microbiome Diet: The Scientifically Proven Way to Restore Your Gut Health and Achieve Permanent Weight Loss,190935,Raphael Kellman
+22614454,Misterio,6941,Peter Straub
+22614454,Misterio,18275913,Antonio Puigròs
+22614929,The Goldfinch,8719,Donna Tartt
+22617408,"Steven Pressfield's ""The Warrior Ethos"": One Marine Officer's Critique and Counterpoint",5332934,Edward H. Carpenter
+22619367,Nothing Is Promised,8347316,Marjorie E. Belson
+22638284,Blood Sacrifice (Healers of Meligna #3),7103731,K.J. Colt
+22646796,"The Getaway God (Sandman Slim, #6)",37557,Richard Kadrey
+22663563,The Nightingale,54493,Kristin Hannah
+22667115,Confess,5430144,Colleen Hoover
+22668729,Hooked: How to Build Habit-Forming Products,7284116,Nir   Eyal
+22668844,H Is for Hawk,314021,Helen Macdonald
+22669147,کتاب مقدس,5158478,Anonymous
+22673436,"Bright Side (Bright Side, #1)",7445352,Kim Holden
+22673915,"Filthy Beautiful Love (Filthy Beautiful Lies, #2)",6473923,Kendall Ryan
+22674105,"China Rich Girlfriend (Crazy Rich Asians, #2)",634694,Kevin Kwan
+22678302,"Harvest Your Own Lumber: How to Fell, Saw, Dry and Mill Wood",19538836,John     English
+22692740,Symptoms of Being Human,8377979,Jeff Garvin
+22693178,"A Dangerous Place (Maisie Dobbs, #11)",5023,Jacqueline Winspear
+22693182,Where They Found Her,6452053,Kimberly McCreight
+22693211,Girl in a Band,362852,Kim Gordon
+22701990,Us,46118,David Nicholls
+22707900,Celia en el cielo,8381855,Georgina Burgos Gil
+22712073,"The Rosie Effect (Don Tillman, #2)",1895943,Graeme Simsion
+22712177,چمران مظلوم بود,6888494,علی اکبری
+22712214,Mayo Clinic Guide to a Healthy Pregnancy,98021,Mayo Clinic
+22712334,تاریخچه ای عمومی از بی عدالتی و شرارت,500,Jorge Luis Borges
+22713330,"The Academy (Tracy Crosswhite, #0.25)",63650,Robert Dugoni
+22716447,Why Not Me?,194416,Mindy Kaling
+22716464,"Rosewater: A Family's Story of Love, Captivity, and Survival",2883774,Maziar Bahari
+22716464,"Rosewater: A Family's Story of Love, Captivity, and Survival",365937,Aimee Molloy
+22716464,"Rosewater: A Family's Story of Love, Captivity, and Survival",3041,Jon Meacham
+22716467,The Dream Lover: A Novel of George Sand,3529,Elizabeth Berg
+22717521,Last and First Men: A Story of the Near and Far Future,64177,Olaf Stapledon
+22717987,"The Long-Lost Home (The Incorrigible Children of Ashton Place, #6)",225455,Maryrose Wood
+22719418,Effective Java: A Programming Language Guide (Java Series),60805,Joshua Bloch
+22729454,"Anna, Banana, and the Friendship Split (Anna, Banana, #1)",1299199,Anica Mrose Rissi
+22729454,"Anna, Banana, and the Friendship Split (Anna, Banana, #1)",8388111,Meg Park
+22729478,"Anna, Banana, and the Monkey in the Middle (Anna, Banana, #2)",1299199,Anica Mrose Rissi
+22729478,"Anna, Banana, and the Monkey in the Middle (Anna, Banana, #2)",8388111,Meg Park
+22731001,The Book of Strange New Things,16272,Michel Faber
+22733729,"The Long Way to a Small, Angry Planet (Wayfarers, #1)",8389735,Becky Chambers
+22736001,"Superintelligence: Paths, Dangers, Strategies",608087,Nick Bostrom
+22736099,Sinopsis de cine,8390202,Ángel Sanchidrián
+22738563,We Should All Be Feminists,11291,Chimamanda Ngozi Adichie
+22738693,The Medusa Chronicles,20295,Stephen Baxter
+22738693,The Medusa Chronicles,51204,Alastair Reynolds
+22744701,"My Sister's Grave (Tracy Crosswhite, #1)",63650,Robert Dugoni
+22748082,The Silence,59165,Tim Lebbon
+22749750,The Turner House,8393970,Angela Flournoy
+22749994,Funny Girl,2929,Nick Hornby
+22750286,Sidewalk Flowers,177113,JonArno Lawson
+22750286,Sidewalk Flowers,6434326,Sydney  Smith
+22750456,Born to Walk: The Transformative Power of a Pedestrian Act,8394127,Dan Rubinstein
+22750456,Born to Walk: The Transformative Power of a Pedestrian Act,403685,Kevin Patterson
+22752442,"Area X: The Southern Reach Trilogy (Southern Reach, #1-3)",33919,Jeff VanderMeer
+22754100,The Girl on the Train,1063732,Paula Hawkins
+22754934,The Peripheral,9226,William Gibson
+22791369,Germany: From Revolution to Counter Revolution,761905,Rob Sewell
+22798022,Death of Wolverine,1641284,Charles Soule
+22798022,Death of Wolverine,52727,Steve McNiven
+22798216,"Leap (Breakthrough, #2)",7141003,Michael C. Grumley
+22813717,After We Fell (After #3),3927354,Anna Todd
+22813719,"After (After, #1)",3927354,Anna Todd
+22816087,Seveneves,545,Neal Stephenson
+22816977,Ligar es como montar en bici,8415575,Brandy Manhattan
+22820452,Amazing Visual Math,2779212,Jolyon Goddard
+22821526,"Exile's Redemption (Chronicles of Shadow, #1)",8414800,Lee Dunning
+22822467,مجموعه مری پاپینز (2جلدی),6872556,P.L. Travers
+22822467,مجموعه مری پاپینز (2جلدی),2948771,مهرداد مهدویان
+22822839,The Thrilling Adventures of Lovelace and Babbage,4412869,Sydney Padua
+22822858,A Little Life,6571447,Hanya Yanagihara
+22823462,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing (Magic Cleaning #1),5589647,Marie Kondō
+22825544,Creatures of a Day: And Other Tales of Psychotherapy,909675,Irvin D. Yalom
+22825544,Creatures of a Day: And Other Tales of Psychotherapy,17761764,پیام یزدانی
+22835624,"The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything",21269,Guy Kawasaki
+22836463,"As Chimney Sweepers Come to Dust (Flavia de Luce, #7)",1074866,Alan Bradley
+22836778,"Depths of Lake (The McCain Saga, #3)",3420702,Keary Taylor
+22838934,"The Zig Zag Girl (Stephens & Mephisto Mystery, #1)",2541526,Elly Griffiths
+22839919,Larger Than Life,7128,Jodi Picoult
+22846308,Between Fires,121206,Marilee Zdenek
+22847559,The Bogleheads' Guide to Investing,66008,Taylor Larimore
+22847559,The Bogleheads' Guide to Investing,66006,Mel Lindauer
+22847559,The Bogleheads' Guide to Investing,66007,Michael LeBoeuf
+22847559,The Bogleheads' Guide to Investing,88909,John C. Bogle
+22848621,"Happily Ever Ninja (Knitting in the City, #5)",5997227,Penny Reid
+22854967,The Cattle King,4231528,Edward Francis Treadwell
+22856126,"The Noble Hustle: Poker, Beef Jerky and Death",10029,Colson Whitehead
+22856141,"The Children Return (Bruno, Chief of Police, #7)",90593,Martin  Walker
+22857255,The Snow Queen,1432,Michael Cunningham
+22874423,Out of Nowhere: True Stories Of People Who Appeared Out Of Thin Air,8430790,Joshua Bucher
+22874423,Out of Nowhere: True Stories Of People Who Appeared Out Of Thin Air,3302150,John K. Bucher
+22875069,I Will Always Write Back: How One Letter Changed Two Lives,8430981,Caitlin Alifirenka
+22875069,I Will Always Write Back: How One Letter Changed Two Lives,8430980,Martin Ganda
+22875069,I Will Always Write Back: How One Letter Changed Two Lives,3121045,Liz Welch
+22875069,I Will Always Write Back: How One Letter Changed Two Lives,19203137,Chukwudi Iwuji
+22875069,I Will Always Write Back: How One Letter Changed Two Lives,985208,Emily Bauer
+22875103,The Fishermen,8430984,Chigozie Obioma
+22875392,Hope and Other Luxuries: A Mother's Life with a Daughter's Anorexia,82467,Clare B. Dunkle
+22875435,The Dead Lands,215907,Benjamin Percy
+22875447,Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead,8431082,Laszlo Bock
+22875451,"The Royal We (Royal We, #1)",1141204,Heather Cocks
+22875451,"The Royal We (Royal We, #1)",4488007,Jessica  Morgan
+22875479,The Light of the World,17148,Elizabeth Alexander
+22877450,"Party Girl (The Girls, #1)",7578129,Rachel Hollis
+22878967,"The Shadow of What Was Lost (The Licanius Trilogy, #1)",8427407,James Islington
+22883411,The Wild Inside (Glacier Mystery #1),8433357,Christine Carbo
+22884616,The 7 Habits of Highly Effective Families,1538,Stephen R. Covey
+22884616,The 7 Habits of Highly Effective Families,5773376,Sandra M. Covey
+22886612,"Nemesis Games (The Expanse, #5)",4192148,James S.A. Corey
+22888928,El diario de Adán y Eva,1244,Mark Twain
+22889019,"The Blackhouse (The Lewis Trilogy, #1)",4605488,Peter  May
+22889764,Street Vegan: Recipes and Dispatches from The Cinnamon Snail Food Truck,7813756,Adam Sobel
+22889767,Better Than Before: Mastering the Habits of Our Everyday Lives,21246,Gretchen Rubin
+22889814,The Narrow Road to the Deep North,8864,Richard Flanagan
+22889834,The Vorrh,1657883,Brian Catling
+22891084,Writing High-Performance .NET Code,3120153,Ben  Watson
+22891356,The Signal and the Noise: Why So Many Predictions Fail--but Some Don't,3387859,Nate Silver
+22892322,"The Universe in Your Hand: A Journey Through Space, Time, and Beyond",548165,Christophe Galfard
+22907028,The Getaway Car: A Practical Memoir About Writing and Life,7136914,Ann Patchett
+22909466,Las cuatro estaciones II: otoño e invierno,3389,Stephen King
+22910024,"The Glass Magician (The Paper Magician, #2)",7801879,Charlie N. Holmberg
+22910900,The Rest of Us Just Live Here,370361,Patrick Ness
+22914448,The Dead Key,8199366,D.M. Pulley
+22915460,"The Glassblower (The Glassblower Trilogy, #1)",754977,Petra Durst-Benning
+22915460,"The Glassblower (The Glassblower Trilogy, #1)",6927570,Samuel Willcocks
+22917896,The Demise (Braxton #1),4146185,Diane Moody
+22918050,"The Heir (The Selection, #4)",2987125,Kiera Cass
+22919017,Hooked: How to Build Habit-Forming Products,7284116,Nir   Eyal
+22919017,Hooked: How to Build Habit-Forming Products,4019771,Ryan Hoover
+22920709,Collected Stories (Vintage Classics),881203,Willa Cather
+22924668,80/20 Running: Run Stronger and Race Faster By Training Slower,99585,Matt Fitzgerald
+22924668,80/20 Running: Run Stronger and Race Faster By Training Slower,6558652,Robert Johnson
+22926580,Adventures with Waffles,2880440,Maria Parr
+22926580,Adventures with Waffles,5812633,Kate Forrester
+22926580,Adventures with Waffles,7517485,Guy Puzey
+22928879,How to F*ck a Woman,8446505,Ali Adler
+22929586,A Manual for Cleaning Women: Selected Stories,157697,Lucia Berlin
+22929586,A Manual for Cleaning Women: Selected Stories,18913011,Stephen Emerson
+22929586,A Manual for Cleaning Women: Selected Stories,27427,Lydia Davis
+22929602,What Belongs to You,4774349,Garth Greenwell
+22929741,The Argonauts,58605,Maggie Nelson
+22934446,Not My Father's Son,173459,Alan Cumming
+22935792,The David Foster Wallace Reader,4339,David Foster Wallace
+22948207,A Man Called Ove,6485178,Fredrik Backman
+22948207,A Man Called Ove,3363844,Henning Koch
+23000942,The Beekeeper's Daughter,77013,Santa Montefiore
+23001667,"Murder Offstage (Posie Parker Mystery, #1)",8339051,L.B. Hathaway
+23002631,"Ofrenda a la tormenta (Trilogía del Baztán, #3)",6888997,Dolores Redondo
+23003482,"Beacon of Vengeance (Corridor of Darkness, A Novel of Nazi Germany #2)",7389026,Patrick W. O'Bryon
+23008797,"The Dirty Duck (Richard Jury, #4)",14150,Martha Grimes
+23009402,Saint Anything,2987,Sarah Dessen
+23011066,Strategic Factors in Economic Development,1010033,Nicholas Kaldor
+23013818,"The Triumph of Seeds: How Grains, Nuts, Kernels, Pulses, and Pips Conquered the Plant Kingdom and Shaped Human History",781168,Thor Hanson
+23013953,Gut: The Inside Story of Our Body’s Most Underrated Organ,7831553,Giulia Enders
+23013953,Gut: The Inside Story of Our Body’s Most Underrated Organ,13529440,Jill Enders
+23014670,The Book of Speculation,8475681,Erika Swyler
+23014674,The Scarlet Gospels,10366,Clive Barker
+23014702,Make Your Home Among Strangers,2904451,Jennine Capo Crucet
+23014705,Does This Beach Make Me Look Fat?: True Stories and Confessions,20258,Lisa Scottoline
+23014705,Does This Beach Make Me Look Fat?: True Stories and Confessions,3296617,Francesca Serritella
+23014868,The Lord God Made Them All,18062,James Herriot
+23017947,"Ms. Marvel, Vol. 2: Generation Why",815259,G. Willow Wilson
+23017947,"Ms. Marvel, Vol. 2: Generation Why",4978,Adrian Alphona
+23017947,"Ms. Marvel, Vol. 2: Generation Why",7376591,Jacob Wyatt
+23017961,Storm Vol. 1: Make it Rain,89393,Greg Pak
+23017961,Storm Vol. 1: Make it Rain,2964555,Víctor Ibáñez
+23017961,Storm Vol. 1: Make it Rain,5770524,Matteo Buffagni
+23019274,Under the Influence,71438,Joyce Maynard
+23019291,"The Heir (The Selection, #4)",2987125,Kiera Cass
+23058187,Museum of Mistakes: The Fart Party Collection,939900,Julia Wertz
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,48181,Marianne Gingher
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,8290577,Michael Parker
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,1030661,Lee Zacharias
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,14123169,Tina Firesheets
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,14123170,Jeri Rowe
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,386517,Quinn Dalton
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,892882,Linda Beatrice Brown
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,14123171,Logie Meachum
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,14123172,Val Nieman
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,1326261,Jim Dodson
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,437481,Steve Mitchell
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,14123173,Josephus III
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,7236842,Maria C. Johnson
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,14056030,Richard Zweigenhaft
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,3430054,Lorraine Ahearn
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,14123174,Veronica Grossi
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,14123175,Katie Saintsing
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,1186347,Mark Smith-Soto
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,4455469,Jim Schlosser
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,14123176,Ashley Kaufman
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,581101,Stuart Dischell
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,14123177,Edward Cone
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,16839038,John Robinson
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,3173616,Drew Perry
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,965264,Ann Deagon
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,60697,Fred Chappell
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,14123178,Diya Abdo
+23058466,27 Views of Greensboro: The Gate City in Prose & Poetry,15189309,Allen Johnson
+23075769,داستان‌های کوتاه کافکا,5223,Franz Kafka
+23075769,داستان‌های کوتاه کافکا,3509002,علی‌اصغر حداد
+23093359,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine, #1)",439887,Kieron Gillen
+23093359,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine, #1)",221821,Jamie McKelvie
+23093359,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine, #1)",705826,Matt Wilson
+23093359,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine, #1)",6523626,Clayton Cowles
+23093367,"Saga, Vol. 4",24514,Brian K. Vaughan
+23093367,"Saga, Vol. 4",304633,Fiona Staples
+23106013,"Battle Ground (The Dresden Files, #17)",10746,Jim Butcher
+23110525,Traction: A Startup Guide to Getting Customers,7754157,Gabriel Weinberg
+23110525,Traction: A Startup Guide to Getting Customers,8202894,Justin Mares
+23111228,The Mission-Driven Venture: Business Solutions to the World's Most Vexing Social Problems,358110,Marc J. Lane
+23121951,"Captured by a Laird (The Douglas Legacy, #1)",2858606,Margaret Mallory
+23125266,I Let You Go,8509533,Clare Mackintosh
+23125449,Congreso de futurología,10991,Stanisław Lem
+23125449,Congreso de futurología,3311102,Melitón Bustamante
+23128304,The Strange Library,3354,Haruki Murakami
+23128304,The Strange Library,7353265,Ted Goossen
+23128304,The Strange Library,16114,Chip Kidd
+23128355,"Batman: Detective Comics, Volume 6: Icarus",184607,Francis Manapul
+23128355,"Batman: Detective Comics, Volume 6: Icarus",573149,Brian Buccellato
+23128355,"Batman: Detective Comics, Volume 6: Icarus",7409375,Taylor Esposito
+23128355,"Batman: Detective Comics, Volume 6: Icarus",3500058,Dezi Sienty
+23128355,"Batman: Detective Comics, Volume 6: Icarus",6950033,Carlos M. Mangual
+23128355,"Batman: Detective Comics, Volume 6: Icarus",748663,Werther Dell'Edera
+23128355,"Batman: Detective Comics, Volume 6: Icarus",14030772,Jorge Fornes
+23128355,"Batman: Detective Comics, Volume 6: Icarus",1953865,Scott Hepburn
+23128355,"Batman: Detective Comics, Volume 6: Icarus",7409374,John Kalisz
+23128355,"Batman: Detective Comics, Volume 6: Icarus",2808576,Lee Loughridge
+23128355,"Batman: Detective Comics, Volume 6: Icarus",295144,Jon Proctor
+23128355,"Batman: Detective Comics, Volume 6: Icarus",2350131,Jared K. Fletcher
+23128355,"Batman: Detective Comics, Volume 6: Icarus",3372257,Steve Wands
+23129410,"Welcome to Night Vale (Welcome to Night Vale, #1)",2559520,Joseph Fink
+23129410,"Welcome to Night Vale (Welcome to Night Vale, #1)",4532873,Jeffrey Cranor
+23130141,Jungle: A Harrowing True Story of Survival in the Amazon,29308,Yossi Ghinsberg
+23131088,Nimona,6887314,Noelle Stevenson
+23131550,Strong Female Protagonist. Book One (Strong Female Protagonist #1-4),8379958,Brennan Lee Mulligan
+23131550,Strong Female Protagonist. Book One (Strong Female Protagonist #1-4),8512129,Molly Ostertag
+23148927,How We Got to Now: Six Innovations That Made the Modern World,1563,Steven Johnson
+23149045,"Operación Matrioska: Finalista Premios Eriginal Books 2017: Mejor novela Policíaca, de Suspense o Thrillers",8338934,Alvaro Botija
+23153154,"Memory Man (Amos Decker, #1)",9291,David Baldacci
+23156040,Those Who Leave and Those Who Stay,44085,Elena Ferrante
+23156040,Those Who Leave and Those Who Stay,183680,Ann Goldstein
+23156040,Those Who Leave and Those Who Stay,6479138,Helinä Kangas
+23156040,Those Who Leave and Those Who Stay,4602841,Erja Manto
+23156927,Judgement Day (Templar Chronicles #5),313399,Joseph Nassise
+23158207,How Google Works,3887089,Eric Schmidt
+23158207,How Google Works,49399,Jonathan Rosenberg
+23160531,And Then One Day: A Memoir,592738,Naseeruddin Shah
+23161088,Romeo and Juliet (No Fear Shakespeare),947,William Shakespeare
+23161088,Romeo and Juliet (No Fear Shakespeare),379768,John Crowther
+23162117,"The Duke and the Lady in Red (Scandalous Gentlemen of St. James, #3)",104926,Lorraine Heath
+23164267,La tienda secreta (Ana Fauré #1),6736378,Eugenio Prados
+23164909,The Scarlatti Inheritance: A Novel,5293,Robert Ludlum
+23164917,A Hand Reached Down to Guide Me,68607,David Gates
+23164983,"Hollow City (Miss Peregrine's Peculiar Children, #2)",3046613,Ransom Riggs
+23167303,A Study in Death (Lady Darby Mystery #4),5775520,Anna Lee Huber
+23167708,LAPD '53,2887,James Ellroy
+23167708,LAPD '53,8530747,Los Angeles Police Museum
+23168277,The Sympathizer,282390,Viet Thanh Nguyen
+23168288,"Falling in Love (Commissario Brunetti, #24)",16290,Donna Leon
+23168801,Valley of the Shadow,19594,Ralph Peters
+23168817,"The Dark Forest (Remembrance of Earth’s Past, #2)",5780686,Liu Cixin
+23168817,"The Dark Forest (Remembrance of Earth’s Past, #2)",12552860,Joel Martinsen
+23168840,"The Arab of the Future: A Childhood in the Middle East, 1978-1984: A Graphic Memoir",752686,Riad Sattouf
+23168854,Golda Slept Here,95897,Suad Amiry
+23197269,Aurora,1858,Kim Stanley Robinson
+23197288,Hold Still: A Memoir with Photographs,130861,Sally Mann
+23199435,Herr Pep,5447604,Martí Perarnau
+23199711,Speed Dreaming: Stories,8283874,Nicole Haroutunian
+23203106,Wink Poppy Midnight,5288442,April Genevieve Tucholke
+23203711,What I Learned Losing A Million Dollars,40599,Jim Paul
+23203711,What I Learned Losing A Million Dollars,636431,Brendan Moynihan
+23208397,Underground Airlines,735413,Ben H. Winters
+23208642,Caveboy Dave: More Scrawny Than Brawny,19748106,Aaron Reynolds
+23208665,The Charmed Children of Rookskill Castle,256775,Janet Fox
+23209328,"The Greatship (Great Ship, #3)",57814,Robert Reed
+23209924,The Water Knife,1226977,Paolo Bacigalupi
+23209927,At the Water's Edge,24556,Sara Gruen
+23209971,Girl at War,8288614,Sara Nović
+23211016,The Epic Struggle of the Internet of Things,34429,Bruce Sterling
+23211404,"Simply Pleasure (House of Pleasure, #0.5)",688826,Kate Pearce
+23212667,All the Missing Girls,4417749,Megan Miranda
+23212940,How to Be Alone (The School of Life),341147,Sara Maitland
+23214408,"After Ever Happy (After, #4)",3927354,Anna Todd
+23215482,The Precious One,66631,Marisa de los Santos
+23228585,Sex Criminals: Volume Two: Two Worlds One Cop,61382,Matt Fraction
+23228585,Sex Criminals: Volume Two: Two Worlds One Cop,7359829,Chip Zdarsky
+23234789,Playing to the Gallery,486695,Grayson Perry
+23241062,Statistics Done Wrong: The Woefully Complete Guide,7350327,Alex Reinhart
+23245422,Saint Mazie,215765,Jami Attenberg
+23245587,Summer Secrets,12915,Jane Green
+23245594,Beach Town,21387,Mary Kay Andrews
+23249416,"An Unwelcome Quest (Magic 2.0, #3)",7044164,Scott  Meyer
+23255844,Go Solo: How to Quit the Job You Hate and Start a Small Business You Love!,8583138,Kelsey Humphreys
+23256978,The American Lady (The Glassblower Trilogy #2),754977,Petra Durst-Benning
+23256978,The American Lady (The Glassblower Trilogy #2),6927570,Samuel Willcocks
+23257405,"Bad Days in History: A Gleefully Grim Chronicle of Misfortune, Mayhem, and Misery for Every Day of the Year",227618,Michael Farquhar
+23258004,"Hold Me (Fool's Gold, #16)",8716,Susan Mallery
+23258112,"Front of the House: Restaurant Manners, Misbehaviors & Secrets",386492,Jeff Benjamin
+23258112,"Front of the House: Restaurant Manners, Misbehaviors & Secrets",658447,Robert Neubecker
+23258113,The Melody Lingers On,99044,Mary Higgins Clark
+23263614,"Thirty-Three and a Half Shenanigans (Rose Gardner Mystery, #6)",4921525,Denise Grover Swank
+23263733,How Google Works,3887089,Eric Schmidt
+23263733,How Google Works,49399,Jonathan Rosenberg
+23264671,"Godsgrave (The Nevernight Chronicle, #2)",4735144,Jay Kristoff
+23264672,"Darkdawn (The Nevernight Chronicle, #3)",4735144,Jay Kristoff
+23264870,The Long and Faraway Gone,3135045,Lou Berney
+23270410,The Heretic's Apprentice (Chronicles of Brother Cadfael #16),4046,Ellis Peters
+23272028,"A Study in Charlotte (Charlotte Holmes, #1)",6894322,Brittany Cavallaro
+23272222,Cherry Blossom Express,8603593,Kate Ressman
+23272912,Lonely Planet Scandinavia,106678,Andy Symington
+23272912,Lonely Planet Scandinavia,106602,Carolyn Bain
+23272912,Lonely Planet Scandinavia,336742,Cristian Bonetto
+23272912,Lonely Planet Scandinavia,353393,Peter Dragicevich
+23272912,Lonely Planet Scandinavia,5651,Anthony Ham
+23272912,Lonely Planet Scandinavia,5100053,Anna Kaminski
+23278537,The Little Paris Bookshop,695300,Nina George
+23278537,The Little Paris Bookshop,5359910,Simon Pare
+23280232,Still Alice,978484,Lisa Genova
+23280241,Depth,4731557,Lev A.C. Rosen
+23281357,Mente animal,4105740,Pilar Adón
+23281730,"The Lady from Zagreb (Bernard Gunther, #10)",53936,Philip Kerr
+23281853,Dear Carolina,8551408,Kristy Woodson Harvey
+23282062,The Year of Living Danishly: My Twelve Months Unearthing the Secrets of the World's Happiest Country,367270,Helen Russell
+23287179,Orphan Number Eight,6306189,Kim van Alkemade
+23288031,The Visual Toolbox: 60 Lessons for Stronger Photographs,2762808,David duChemin
+23288966,White Tiger on Snow Mountain,113520,David Gordon
+23289458,What to Expect the First Year,53,Heidi Murkoff
+23289458,What to Expect the First Year,137747,Sharon Mazel
+23290548,Being Mortal: Medicine and What Matters in the End,3078,Atul Gawande
+23294727,"Sunstone, Vol. 1",617155,Stjepan Šejić
+23299408,Home Fires Burning,326835,Bonnie Gardner
+23299408,Home Fires Burning,7946133,Whitney Black
+23302416,"Wonder (Wonder, #1)",4859212,R.J. Palacio
+23302416,"Wonder (Wonder, #1)",88934,Raquel Jaramillo
+23305614,Finding Audrey,6160,Sophie Kinsella
+23306430,40 días de fuego,7181182,Mario Villén Lucena
+23309061,Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting (now with Bébé Day by Day: 100 Keys to French Parenting),274731,Pamela Druckerman
+23309622,The Great Good Summer,5369451,Liz Garton Scanlon
+23309640,Float,4108328,Daniel Miyares
+23310156,"The 5th Wave (The 5th Wave, #1)",3377941,Rick Yancey
+23310161,The Day the Crayons Came Home,6561846,Drew Daywalt
+23310161,The Day the Crayons Came Home,173545,Oliver Jeffers
+23310175,The Rocks,4114,Peter Nichols
+23310751,First & Then,5822460,Emma   Mills
+23315800,18 and Life on Skid Row,1130808,Sebastian Bach
+23316485,Dragonfish,144563,Vu Tran
+23316532,Desperate Characters,43740,Paula Fox
+23316532,Desperate Characters,2578,Jonathan Franzen
+23316548,The Book of Negroes,20411,Lawrence Hill
+23317538,Rising Strong,162578,Brené Brown
+23318024,Mae and the Moon,8905634,Jami Gigot
+23320788,Ms. Cuddy Is Nutty! (My Weirdest School #2),53249,Dan Gutman
+23341560,"Last Words (Mark Novak, #1)",24197,Michael Koryta
+23341560,"Last Words (Mark Novak, #1)",769494,Stefan Lux
+23341560,"Last Words (Mark Novak, #1)",5307711,Irene Eisenhut
+23341578,Broken Monsters,426034,Lauren Beukes
+23341607,The Rumor,88301,Elin Hilderbrand
+23341862,Blackout: Remembering the Things I Drank to Forget,8010659,Sarah Hepola
+23341894,Every Last Word,4792225,Tamara Ireland Stone
+23346377,"In a Dark, Dark Wood",9013543,Ruth Ware
+23346389,Medieval Graffiti: The Lost Voices of England's Churches,9013545,Matthew Champion
+23346526,Dragons at Crumbling Castle: And Other Stories,1654,Terry Pratchett
+23346634,How to Tuck In Your Sleepy Lion,368081,Jane Clarke
+23346634,How to Tuck In Your Sleepy Lion,709452,Georgie Birkett
+23347746,All We Have Left,7225284,Wendy Mills
+23350057,Mystery in White,1135708,J. Jefferson Farjeon
+23350057,Mystery in White,31252,Martin Edwards
+23354171,"For Love of the Duke (The Heart of a Duke, #1)",5297089,Christi Caldwell
+23355220,"The Leopard (Harry Hole, #8)",904719,Jo Nesbø
+23355443,"The Scorch Trials: The Maze Runner Series, Book 2 by James Dashner | Summary & Analysis",8136264,Book*Sense
+23359689,Bowie on Bowie: Interviews and Encounters with David Bowie,360,Sean Egan
+23363349,"The Life We Bury (Joe Talbert, #1; Max Rupert, #1)",7832387,Allen Eskens
+23363928,The Library at Mount Char,8446300,Scott  Hawkins
+23364977,The Girl on the Train,1063732,Paula Hawkins
+23365191,"Decades (20th Century, #1)",4597223,Ruth  Harris
+23365862,A Chosen Exile: A History of Racial Passing in American Life,7584007,Allyson Hobbs
+23370707,Cien años de soledad,13450,Gabriel García Márquez
+23377998,KL NOIR: YELLOW,6889941,Kris Williamson
+23377998,KL NOIR: YELLOW,9563360,Choong JayVee
+23377998,KL NOIR: YELLOW,9563361,Ai-May Chin
+23377998,KL NOIR: YELLOW,9563364,Catalina Rembuyan
+23377998,KL NOIR: YELLOW,7412572,Leroy Luar
+23377998,KL NOIR: YELLOW,9563365,Abd Qayyum Jumadi
+23377998,KL NOIR: YELLOW,9563366,Wong Pek Mei
+23377998,KL NOIR: YELLOW,3106377,Paul GnanaSelvam
+23377998,KL NOIR: YELLOW,9563367,Martin Vengadesan
+23377998,KL NOIR: YELLOW,9563369,Sukhbir Cheema
+23377998,KL NOIR: YELLOW,8250342,Claudia Skyler Foong
+23377998,KL NOIR: YELLOW,9563370,Zufar Ismail Zeid
+23377998,KL NOIR: YELLOW,9563371,Subashini Navaratnam
+23377998,KL NOIR: YELLOW,9563372,Natasha Gideon
+23377998,KL NOIR: YELLOW,8250346,Timothy Nakayama
+23377998,KL NOIR: YELLOW,7191957,Sek Han Foo
+23377998,KL NOIR: YELLOW,13657687,Sharmilla Ganesan
+23378951,"The Thought Readers (Mind Dimensions, #1)",7210511,Dima Zales
+23378951,"The Thought Readers (Mind Dimensions, #1)",6550220,Anna Zaires
+23379244,"The Hidden Masters of Marandur (The Pillars of Reality, #2)",55547,Jack Campbell
+23379245,"The Dragons of Dorcastle (The Pillars of Reality, #1)",55547,Jack Campbell
+23379245,"The Dragons of Dorcastle (The Pillars of Reality, #1)",7711592,MacLeod Andrews
+23380123,"The Art of Forgery: The Minds, Motives and Methods of Master Forgers",569071,Noah Charney
+23380833,Girl With Curious Hair,4339,David Foster Wallace
+23382193,La Hermandad (El asesinato de Pitágoras #2),5351535,Marcos Chicot
+23382209,Three Daughters,483643,Consuelo Saah Baehr
+23386323,Aventuras de Allan Quatermain (Allan Quatermain #2),4633123,H. Rider Haggard
